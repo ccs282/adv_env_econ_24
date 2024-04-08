@@ -1,2 +1,3 @@
-# adv_env_econ_24
- 
+# Advanced in Environmental Economics: Modelling and Empirical Approaches
+
+## Software Requirements
