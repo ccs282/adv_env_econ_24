@@ -1,8 +1,6 @@
 # Advanced Environmental Economics: Modelling and Empirical Approaches
 
-[toc]
-
-<!-- - [Advanced Environmental Economics: Modelling and Empirical Approaches](#advanced-environmental-economics-modelling-and-empirical-approaches)
+- [Advanced Environmental Economics: Modelling and Empirical Approaches](#advanced-environmental-economics-modelling-and-empirical-approaches)
   - [How to use this repository](#how-to-use-this-repository)
   - [Software Requirements](#software-requirements)
     - [Julia](#julia)
@@ -11,7 +9,7 @@
       - [VSC Extensions](#vsc-extensions)
   - [Modelling Approaches](#modelling-approaches)
   - [Empirical Approaches](#empirical-approaches)
-  - [Contact](#contact) -->
+  - [Contact](#contact)
 
 ---
 
