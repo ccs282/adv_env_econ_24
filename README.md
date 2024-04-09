@@ -1,6 +1,8 @@
 # Advanced Environmental Economics: Modelling and Empirical Approaches
 
-- [Advanced Environmental Economics: Modelling and Empirical Approaches](#advanced-environmental-economics-modelling-and-empirical-approaches)
+[toc]
+
+<!-- - [Advanced Environmental Economics: Modelling and Empirical Approaches](#advanced-environmental-economics-modelling-and-empirical-approaches)
   - [How to use this repository](#how-to-use-this-repository)
   - [Software Requirements](#software-requirements)
     - [Julia](#julia)
@@ -9,7 +11,7 @@
       - [VSC Extensions](#vsc-extensions)
   - [Modelling Approaches](#modelling-approaches)
   - [Empirical Approaches](#empirical-approaches)
-  - [Contact](#contact)
+  - [Contact](#contact) -->
 
 ---
 
@@ -21,7 +23,7 @@
 
 ### Julia
 
-xxx
+For the hands-on modelling part of the lecture, we are gonna be working in [`Julia`](https://julialang.org). Specifically, we're gonna be using the [`Mimi` package](https://www.mimiframework.org/Mimi.jl/stable/).
 
 ### R
 
@@ -45,12 +47,15 @@ You can access the extensions menu on the sidebar or via `Ctrl+Shift+X` on Windo
 
 | Extension | Extension ID | Notes |
 | --- | --- | --- |
+| `Jupyter` | `ms-toolsai.jupyter` | This is for opening Juptyer notebooks (see [here](./modelling/README.md)) |
 | `R` | `REditorSupport.r` | Make sure you have installed R and the R package `languageserver` (for instructions see [here](https://github.com/REditorSupport/vscode-R.git) or [above](#r)). |
-| x | x | x |
+| `Julia` | `julialang.language-julia` | x |
 
 ---
 
 ## Modelling Approaches
+
+The materials required for the empirical part of this course are located under [./modelling](./modelling). You will find instructions in the [README](./modelling/README.md) file of this subfolder.
 
 ---
 
