@@ -23,6 +23,8 @@
 
 For the hands-on modelling part of the lecture, we are gonna be working in [`Julia`](https://julialang.org). Specifically, we're gonna be using the [`Mimi` package](https://www.mimiframework.org/Mimi.jl/stable/).
 
+Go to the [modelling README](./modelling/README.md) to see more on how to install Julia, open Jupyter Notebooks and working with Mimi.
+
 ### R
 
 For the empirical part of this course, the free software R is required and can be downloaded [here](https://www.r-project.org/).
@@ -35,7 +37,9 @@ install.packages("languageserver")
 
 ### Integrated Development Environment (IDE)
 
-We recommend working with an IDE such as Visual Studio Code (VSC) as it offers a wide range of extensions and accommodates most popular programming languages. VSC can be downloaded free of charge [here](https://code.visualstudio.com/download).
+We recommend working with an IDE such as [Visual Studio Code (VSC)](https://code.visualstudio.com/) as it offers a wide range of extensions and accommodates most popular programming languages. VSC can be downloaded free of charge [here](https://code.visualstudio.com/download).
+
+VS Code is an open-source code editor maintained by Microsoft. You can use a non-Microsoft version without any trackers through [VSCodium](https://vscodium.com/), which is identical but lacks some Microsoft extensions such as _Copilot_ or _Remote-SSH_.
 
 While you can also work in [RStudio](https://posit.co/downloads/) when working with R, the course will be taught using VSC and we encourage you to try it out.
 
