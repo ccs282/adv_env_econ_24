@@ -10,7 +10,7 @@ You don't have to submit anything, but do try to go through the following steps 
 
 1. Install Julia
 1. Install VS Code
-3. Open the [Jupypter Notebook]()
+3. Open the [Jupypter Notebook](./Intro_Notebook.ipynb)
 4. Test your Julia installation
 6. Be happy if it all went smoothly, don't despair in case it didn't :)
 <!-- 3. Install Mimi
