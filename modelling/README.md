@@ -36,10 +36,10 @@ You can see three parts: Left, the side bar with _Explorer_, _Source Control_ (g
 
 ## 3. Opening the Jupyter Notebook
 
-Now, you should be able to open a Jupyter Notebook with the VS Code installation on your computer. The simplest way is to manually download the file and the folder it's in from the Github website, and then open it with VS Code. 
+Now, you should be able to open a Jupyter Notebook with the VS Code installation on your computer. The simplest way is to manually download the file and the folder it's in from the Github website, and then open it with VS Code.
 To manually download a git repository, click on the top-right green box that says `< > Code` and select `Download ZIP`.
 A better way of doing it would be to open a Github repository directly through VS Code, as explained [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository).
-The pro way of doing it is to use the `git clone` command to clone the whole Github repository and then open it with VS Code. If you're into nerdy stuff, I'll add a [short box on `git`](#git), otherwise just move on. 
+The pro way of doing it is to use the `git clone` command to clone the whole Github repository and then open it with VS Code. If you're into nerdy stuff, I'll add a [short box on `git`](#git), otherwise just move on.
 
 If you're wondering what exactly a Jupyter Notebook is, see [here](#jupyter-notebooks) in the [section with useful nerdy stuff](#section-with-useful-nerdy-stuff).
 
