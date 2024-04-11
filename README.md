@@ -2,6 +2,7 @@
 
 - [Advanced Environmental Economics: Modelling and Empirical Approaches](#advanced-environmental-economics-modelling-and-empirical-approaches)
   - [How to use this repository](#how-to-use-this-repository)
+    - [How to get this repository on your computer](#how-to-get-this-repository-on-your-computer)
   - [Software Requirements](#software-requirements)
     - [Julia](#julia)
     - [R](#r)
@@ -17,9 +18,15 @@
 
 The idea behind this repository (=folder) is to have one place that contains all relevant materials: slides, tutorials, scripts, ... The advantage of using a git repository is that it is designed such that you all can download (or clone) it and easily keep it synced to the newest version that's hosted here in Github. That way, we are all on the same page and have the same files to work with.
 
-This file here is called a `README`. As the name suggests, this is the first thing one is supposed to read when looking at a directory. We have made two subfolders for the respective hands-on parts - empirics and modelling - which each have a more specific `README` file in their respective subdirectory. For more information on how to get this Github repository onto your own computer, see [here](./modelling/README.md#3-opening-the-jupyter-notebook).
+This file here is called a `README`. As the name suggests, this is the first thing one is supposed to read when looking at a directory. We have made two subfolders for the respective hands-on parts - empirics and modelling - which each have a more specific `README` file in their respective subdirectory.
 
-Over time, this directory will evolve as more slides, tutorials, and code snippets are uploaded. Ideally, you'll all have your own version of this repository on your computers that you keep in sync with the one that we host on Github. Feel free to contact us about any Github-related questions. We will also continue to put slides onto Stine.
+### How to get this repository on your computer
+
+The easiest way for most people to obtain a local copy of the repository is via GitHub Desktop, which can be downloaded [here](https://desktop.github.com/). Once you have installed the software, you can clone our online repository on your computer. To do this, follow the steps described [here](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop#cloning-a-repository). When the window titled `Clone a repository` opens, you can choose to clone from a URL, which should be `https://github.com/ccs282/adv_env_econ_24.git`. Set the local path under which the repository should be saved on your computer and you should be good to go. For more information on the workflow with Github Desktop, check out the helpful documentation on the [website](https://docs.github.com/en/desktop).
+
+Over time, the repository will evolve as more slides, tutorials, and code snippets are uploaded. You can then `Pull` these changes from the web onto our computer using GitHub Desktop.
+
+For alternative ways of getting this Github repository onto your own computer, see also [here](./modelling/README.md#3-opening-the-jupyter-notebook). Feel free to contact us about any Github-related questions. We will also continue to put slides onto Stine.
 
 ---
 
