@@ -15,13 +15,19 @@
 
 ## How to use this repository
 
+The idea behind this repository (=folder) is to have one place that contains all relevant materials: slides, tutorials, scripts, ... The advantage of using a git repository is that it is designed such that you all can download (or clone) it and easily keep it synced to the newest version that's hosted here in Github. That way, we are all on the same page and have the same files to work with.
+
+This file here is called a `README`. As the name suggests, this is the first thing one is supposed to read when looking at a directory. We have made two subfolders for the respective hands-on parts - empirics and modelling - which each have a more specific `README` file in their respective subdirectory. For more information on how to get this Github repository onto your own computer, see [here](./modelling/README.md#3-opening-the-jupyter-notebook).
+
+Over time, this directory will evolve as more slides, tutorials, and code snippets are uploaded. Ideally, you'll all have your own version of this repository on your computers that you keep in sync with the one that we host on Github. Feel free to contact us about any Github-related questions. We will also continue to put slides onto Stine.
+
 ---
 
 ## Software Requirements
 
 ### Julia
 
-For the hands-on modelling part of the lecture, we are gonna be working in [`Julia`](https://julialang.org). Specifically, we're gonna be using the [`Mimi` package](https://www.mimiframework.org/Mimi.jl/stable/).
+For the hands-on modelling part of the lecture, we are gonna be working in [`Julia`](https://julialang.org). Specifically, we're gonna be using the [`Mimi` package](https://www.mimiframework.org/).
 
 Go to the [modelling README](./modelling/README.md) to see more on how to install Julia, open Jupyter Notebooks and working with Mimi.
 

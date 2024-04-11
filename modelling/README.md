@@ -40,7 +40,6 @@ Now, you should be able to open a Jupyter Notebook with the VS Code installation
 To manually download a git repository, click on the top-right green box that says `< > Code` and select `Download ZIP`.
 A better way of doing it would be to open a Github repository directly through VS Code, as explained [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository).
 The pro way of doing it is to use the `git clone` command to clone the whole Github repository and then open it with VS Code. If you're into nerdy stuff, I'll add a [short box on `git`](#git), otherwise just move on. 
-On the general idea behind Github, see [here](../README.md#how-to-use-this-repository). 
 
 If you're wondering what exactly a Jupyter Notebook is, see [here](#jupyter-notebooks) in the [section with useful nerdy stuff](#section-with-useful-nerdy-stuff).
 
