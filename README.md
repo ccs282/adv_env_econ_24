@@ -14,7 +14,7 @@
 
 ---
 
-## How to use this repository 
+## How to use this repository
 
 The idea behind this repository (=folder) is to have one place that contains all relevant materials: slides, tutorials, scripts, ... The advantage of using a git repository is that it is designed such that you all can download (or clone) it and easily keep it synced to the newest version that's hosted here in Github. That way, we are all on the same page and have the same files to work with.
 
