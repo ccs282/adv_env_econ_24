@@ -14,13 +14,13 @@ By working with observational data sets and extending the methodology employed i
 
 Conducting empirical research is an exciting and rewarding endeavour: You are working with valuable information collected in the real world, aggregated into comprehensive and tidy datasets that allow you to get a scientific answer to every question that comes to your mind. You think that sounds a bit too simple and too good to be true? Unfortunately, you are right about that. It is a bit more complicated. In the following two exercises, you will get a flavour of what it is like to carry out empirical research using observational data, highlighting both the appeal of causal identification as well as practical challenges.
 
-### Task 1: Finding a research question, data, and methodology
+### Exercise 1: Finding a research question, data, and methodology
 
 Most research projects begin with a research question and/or a useful data set. Coming up with a research question that a) you find interesting, b) you can provide an answer to by employing a convincing empirical approach, c) for which you have the necessary data, and d) that ideally contributes to the research frontier is a formidable challenge.
 
 As some of you will at some point face this exciting challenge for your master's thesis, you now have the opportunity to design a research project that you find interesting. You will not need to follow up on this project, but you might want to consider it as preparation for a master's thesis.
 
-#### Subtasks
+#### Tasks
 
 You will not have to submit your answers. However, you will discuss your thoughts with your neighbour on May 2.
 
@@ -46,7 +46,7 @@ You will not have to submit your answers. However, you will discuss your thought
 - If you do not find data sets, be explicit about what kind of data you would need
   - e.g., what spatial and temporal resolution: Do you need emissions data at the sectoral level? At the level of industrial facilities? Yearly, daily, ...?
 
-### Task 2: Data preparation
+### Exercise 2: Data preparation
 
 *The second task of the homework assignments will be made available over the weekend.*
 
@@ -60,7 +60,7 @@ You will not have to submit your answers. However, you will discuss your thought
 
 ## Useful resources for working with R
 
-To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#task-2-data-preparation).
+To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#exercise-2-data-preparation).
 
 <details>
 <summary> Click here to open the table. </summary>
@@ -68,7 +68,7 @@ To install `R` and integrate it into `Visual Studio Code`, check out the [README
 | Resource | What is it useful for? |
 | --- | --- |
 | Free book on [R programming by Roger D. Peng](https://leanpub.com/rprogramming) | Good reference if you are not proficient in R yet. Focus on general R programming (not specifically data analysis), but highly useful nonetheless. If you are new to R, start here. |
-| Official references for the most important [tidyverse packages](https://www.tidyverse.org/packages/) for preparing the data: [dplyr](https://dplyr.tidyverse.org/reference/index.html) and [tidyr](https://tidyr.tidyverse.org/) | When working through the [data preparation exercise](#task-2-data-preparation), you should check out these two pages to look up specific functions. |
+| Official references for the most important [tidyverse packages](https://www.tidyverse.org/packages/) for preparing the data: [dplyr](https://dplyr.tidyverse.org/reference/index.html) and [tidyr](https://tidyr.tidyverse.org/) | When working through the [data preparation exercise](#exercise-2-data-preparation), you should check out these two pages to look up specific functions. |
 | Free books by [Hadley Wickham](https://hadley.nz/)  | Hadley Wickham is one of the people behind the great [tidyverse](https://www.tidyverse.org/) universe of packages. His books are generally a good reference. |
 | Free book on working with the Tidyverse by [Wright et al.](https://leanpub.com/tidyverseskillsdatascience) | The tidyverse is the workhorse for data analysis on R. The book is a comprehensive reference. |
 | Lists of packages that could be useful for [econometrics](https://cran.r-project.org/web/views/Econometrics.html) and [causal inference](https://cran.r-project.org/web/views/CausalInference.html) | If you know what you want to implement, but you do not know which R packages enable you to do that, this is a good starting point. |
