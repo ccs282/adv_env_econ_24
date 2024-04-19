@@ -1,7 +1,5 @@
 # Empirical Track
 
----
-
 ## What you can expect from this part of the course
 
 In this part of the course, we will replicate and extend environmental economics papers. These papers employ various empirical methodologies, aiming to identify a causal effect. We will work with the statistical programming language `R`. The following sections provide exercises that introduce you to carrying out empirical research yourselves and getting up to speed with `R`. Moreover, you will find a list of useful resources [below](#useful-resources-for-working-with-r).
