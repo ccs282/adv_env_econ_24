@@ -126,7 +126,7 @@ c(
 - Transform `verified_emiss` to a numeric variable (keeping the name). If `verified_emiss` is one of `c("Excluded", "Not Reported")`, set it to `NA`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/clean_eutl.csv](./data/zaklan_replication/checkpoints/clean_eutl.csv)
 
@@ -155,7 +155,7 @@ c(
 - Remove observations where the country (`registry_code`) is `"GB"`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/nace.csv](./data/zaklan_replication/checkpoints/nace.csv)
 
@@ -189,7 +189,7 @@ c(
 - Finally, create the variables `post_2009_treated`, `post_[...]_treated` through `post_2017_treated` as the interactions of the respective `post_[...]` and `treated`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/treat_vars.csv](./data/zaklan_replication/checkpoints/treat_vars.csv)
 
@@ -202,7 +202,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 - Create two new variables `coal` and `gas` that should equal `1` if `fuel_type` is equal to the respective fuel type and `0` otherwise.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/fuel_type.csv](./data/zaklan_replication/checkpoints/fuel_type.csv)
 
@@ -217,7 +217,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 - Sort the data by `registry_code`, `installationidentifier`, and `year`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/multi_single.csv](./data/zaklan_replication/checkpoints/multi_single.csv)
 
@@ -231,7 +231,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 - Create the variables `ln_final_electricity_consumption`, `ln_RE`, and `ln_GDP` as the natural logarithms of the respective variables.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/electricity.csv](./data/zaklan_replication/checkpoints/electricity.csv)
 
@@ -243,7 +243,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 - Create the variables `annual_change_bank_inst_1000` and `net_ac_ext_inst_1000` as the respective variables divided by `1000`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/transactions.csv](./data/zaklan_replication/checkpoints/transactions.csv)
 
@@ -274,7 +274,7 @@ c(
 - Sort the data by `inst_num`.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/psm_prep.csv](./data/zaklan_replication/checkpoints/psm_prep.csv)
 
@@ -292,7 +292,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
   - `weight_[subsample]`: For each treated and control unit, this should be the weight as calculated by the `MatchIt` package.
 
 <details>
-<summary> If you cannot solve this task: Click here to access the data checkpoint. </summary>
+<summary> If you cannot solve this task or prefer to skip it: Click here to access the data checkpoint. </summary>
 
 The data set after this task should look like this: [./data/zaklan_replication/checkpoints/psm.csv](./data/zaklan_replication/checkpoints/psm.csv)
 
