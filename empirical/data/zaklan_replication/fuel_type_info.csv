@@ -1,0 +1,843 @@
+fuel_type,installationidentifier,account_holder,registry_code,installation_name
+gas,132,EVN Wärme GmbH,AT,EVN FHKW Mödling
+gas,128,EVN Wärme GmbH,AT,EVN FHW Baden
+coal,135,EVN AG,AT,EVN KW Dürnrohr Zwentendorf
+gas,134,EVN AG,AT,EVN KW Theiß Gedersdorf
+oil,60,Energie Steiermark Wärme GmbH,AT,FHKW Graz
+oil,38,Stadtwerke Klagenfurt AG,AT,FHKW Klagenfurt Stadtwerke Klagenfurt
+gas,148,Wels Strom GmbH,AT,FHKW WelsStrom Wels
+,78,Energie AG Oberösterreich Wärme GmbH,AT,FW Kirchdorf
+gas,43,LINZ STROM GAS WÄRME GmbH,AT,LS FHKW Mitte Linz Linie 1a
+gas,46,LINZ STROM GAS WÄRME GmbH,AT,LS FHKW Süd Linz
+gas,32,"Salzburg AG für Energie, Verkehr und Telekommunikation",AT,Salzburg AG FHKW Mitte Salzburg
+gas,33,"Salzburg AG für Energie, Verkehr und Telekommunikation",AT,Salzburg AG FHKW Nord Salzburg
+,89,Bioenergie Kufstein GmbH,AT,Stadtwerke Kufstein
+coal,99,VERBUND Thermal Power GmbH & CO KG,AT,Verbund FHKW Mellach
+gas,85,WIEN ENERGIE GmbH,AT,Wienstrom KW Donaustadt Wien
+,84,WIEN ENERGIE GmbH,AT,Wienstrom KW Simmering Wien
+,219,WIEN ENERGIE GmbH,AT,Wienstrom Simmering Block 1+2
+,151,VEOLIA,BE,Dalkia (site de UCL) Louvain-la-Neuve
+gas,301,EDF Luminus,BE,EDFL - Angleur TGV1
+gas,297,EDF Luminus,BE,EDFL - Centrale Buitenring Wondelgem Gent
+gas,298,EDF Luminus,BE,EDFL - Centrale Ham 68 Gent
+gas,69,Electrabel,BE,Electrabel - Centrale Drogenbos
+gas,70,Electrabel,BE,Electrabel - Centrale Herdersbrug
+,79,Electrabel,BE,Electrabel - Turbojet Beerse
+,80,Electrabel,BE,Electrabel - Turbojet Noordschote
+,81,Electrabel,BE,Electrabel - Turbojet Zedelgem
+,82,Electrabel,BE,Electrabel - Turbojet Zeebrugge
+,83,Electrabel,BE,Electrabel - Turbojet Zelzate
+gas,84,Electrabel,BE,Electrabel Amercoeur-Roux
+gas,85,Electrabel,BE,Electrabel Baudour
+,93,INOVYN Manufacturing Belgium,BE,INOVYN Cogénération Jemeppe
+gas,92,Electrabel,BE,Lanxess - Electrabel
+gas,307,Zandvliet Power,BE,Zandvliet-Power
+coal,9,Contour Global Maritsa East 3,BG,TEC ContourGlobal Maritsa East 3
+coal,32,BRIKEL EAD,BG,TEC kam BRIKEL EAD
+coal,4,Toplofikacia Pernik AD,BG,TEC Republika
+gas,24,EVN- Bulgaria Toplofikaciy,BG,TEZ Plovdiv - Sever
+gas,40,Toplofikacia Pleven EAD,BG,Toplofikacia Pleven
+gas,82,Toplofikacia Sofia EAD,BG,Toplofikacia Sofia AD-TEC Sofi? iztok
+gas,83,Toplofikacia Sofia EAD,BG,Toplofikacia Sofia AD-TEC Sofia
+coal,52,Toplofikatsia Ruse AD,BG,Toplofikatsia RuseAD TEC Ruse Iztok
+coal,11,TPP Bobov Dol,BG,TPP Bobov Dol
+coal,50,TPP MARITSA EAST 2  EAD,BG,TPP MARITSA EAST 2 EAD
+coal,71,VEOLIA ENERDGY VARNA EAD,BG,VEOLIA ENERDGY VARNA EAD
+coal,135,"ACTHERM, spol. s r.o.",CZ,Actherm - teplárna - spalovací zařízení
+coal,82,Alpiq Generation (CZ) s.r.o.,CZ,Alpiq Generation - Elektrárna Kladno
+gas,401,Alpiq Generation (CZ) s.r.o.,CZ,Alpiq Generation - Elektrárna Kladno 2
+coal,44,Alpiq Generation (CZ) s.r.o.,CZ,Alpiq Generation - Teplárna Zlín
+coal,307,C-Energy Planá s.r.o.,CZ,C-Energy Planá - Teplárna
+coal,95,Výroba a prodej tepla Příbram a.s.,CZ,Centrální zdroj tepla
+coal,151,"ČEZ, a. s.",CZ,ČEZ - Teplárna Trmice
+coal,118,"Elektrárna Dětmarovice, a.s.",CZ,"ČEZ, a. s. - Elektrárna Dětmarovice"
+coal,119,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Hodonín"
+coal,121,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Ledvice"
+coal,122,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Mělník 2"
+coal,123,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Mělník 3"
+coal,124,"Elektrárna Počerady, a.s.",CZ,"ČEZ, a. s. - Elektrárna Počerady"
+coal,125,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Poříčí"
+coal,126,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Prunéřov 1"
+coal,127,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Prunéřov 2"
+coal,129,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Elektrárna Tušimice 2"
+coal,131,"ČEZ, a. s.",CZ,"ČEZ, a. s. - Teplárna Dvůr Králové nad Labem"
+coal,128,"Elektrárna Tisová, a.s.",CZ,Elektrárna Tisová
+coal,36,"Elektrárny Opatovice, a.s.",CZ,Elektrárny Opatovice - Elektrárna Opatovice
+coal,252,"ENERGETIKA TŘINEC, a.s.",CZ,ENERGETIKA TŘINEC - Teplárny a Tepelná zařízení
+coal,224,"Energocentrum Vítkovice, a. s.",CZ,Energocentrum Vítkovice - Kotelna Vítkovice I
+coal,45,"Energotrans, a.s.",CZ,ENERGOTRANS - Elektrárna Mělník 1
+coal,200,"KOMTERM Morava, s.r.o.",CZ,"KOMTERM Morava - Kotelna Areál Tatry, Kopřivnice"
+coal,76,Plzeňská energetika a.s.,CZ,Plzeňská energetika - Teplárna ELU III
+coal,65,"Plzeňská teplárenská, a.s.",CZ,Plzeňská teplárenská - centrální zdroj tepla Plzeň
+coal,120,"Sev.en EC, a.s.",CZ,Sev.en EC - Elektrárna Chvaletice
+coal,164,"ŠKO-ENERGO, s.r.o.",CZ,ŠKO-ENERGO Teplárna Mladá Boleslav
+gas,117,"Sokolovská uhelná, právní nástupce, a.s.",CZ,Sokolovská uhelná - Teplárna a PPC Vřesová
+,167,TAMERO INVEST s.r.o.,CZ,TAMERO INVEST - Teplárna Kralupy
+coal,245,"Teplárna České Budějovice, a.s.",CZ,"Teplárna České Budějovice, Novohradská ul."
+gas,353,"Teplárna Liberec, a.s.",CZ,"Teplárna Liberec, a.s."
+coal,38,Teplárna Otrokovice a.s.,CZ,Teplárna Otrokovice - Teplárna
+coal,40,"Teplárna Strakonice, a.s.",CZ,"Teplárna Strakonice, a.s."
+coal,50,"Teplárna Tábor, a.s.",CZ,Teplárna Tábor - kotelna TTA 1
+gas,141,"Teplárny Brno, a.s.",CZ,Teplárny Brno - Provoz Brno sever
+gas,143,"Teplárny Brno, a.s.",CZ,Teplárny Brno - Provoz Červený Mlýn
+gas,142,"Teplárny Brno, a.s.",CZ,Teplárny Brno - Provoz Špitálka
+,100,TERMO Děčín a.s.,CZ,TERMO Děčín - Teplárna Bynov
+gas,99,TERMO Děčín a.s.,CZ,TERMO Děčín - Teplárna Želenice
+coal,112,"United Energy, a.s.",CZ,United Energy - Teplárna Komořany
+coal,209,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Elektrárna Třebovice
+coal,215,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Teplárna Československé armády
+coal,217,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Teplárna Karviná
+coal,219,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Teplárna Olomouc
+coal,220,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Teplárna Přerov
+coal,221,"Veolia Energie ČR, a.s.",CZ,Veolia Energie - Teplárna Přívoz
+coal,191,"Veolia Energie Kolín, a.s.",CZ,Veolia Energie Kolín - Elektrárna Kolín
+gas,664,Stadtwerke Augsburg Energie GmbH,DE,BHKW GT-Ost Stadtwerke Augsburg
+oil,1149,Vattenfall Wärme Berlin Aktiengesellschaft,DE,BHKW Köpenick
+gas,1398,Avacon Natur GmbH,DE,BHKW Lüneburg Mitte
+,725,envia THERM GmbH,DE,Biomasse-Heizkraftwerk Malchin
+gas,1228,ArcelorMittal Bremen GmbH,DE,Block 4 Bremen
+gas,1409,Mark-E Aktiengesellschaft,DE,Cuno-Heizkraftwerk Herdecke
+oil,717,Allgäuer Überlandwerk GmbH,DE,Dieselmotorenanlage zur Stromerzeugung
+biomass,1741,Emsland-Stärke Gesellschaft mit beschränkter Haftung,DE,Emsland Stärke Emlichheim Heizkraftwerk
+gas,763,Mohn Media Mohndruck GmbH,DE,Energiezentrum Mohn Media
+gas,1868,Zweite Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,DE,EVC 2
+coal,706,Städtische Werke Energie + Wärme GmbH,DE,Fernwärmekraftwerk Kassel (FKK)
+gas,1134,Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,DE,Gasmotoren-Blockheizkraftwerk
+oil,722,Allgäuer Überlandwerk GmbH,DE,Gasturbinenanlage
+,674,PreussenElektra GmbH,DE,Gemeinschaftskernkraftwerk Grohnde
+gas,795,Wacker Chemie AG,DE,Gemeinschaftskraftwerk Burghausen
+coal,1210,Gemeinschaftskraftwerk Kiel GmbH,DE,Gemeinschaftskraftwerk Kiel
+coal,1387,GKH - Gemeinschaftskraftwerk Hannover GmbH,DE,GKH - Gemeinschaftskraftwerk Hannover GmbH
+coal,824,Currenta GmbH & Co. OHG,DE,G-Kraftwerk NW 1054088 206
+coal,1380,Großkraftwerk Mannheim Aktiengesellschaft,DE,Grosskraftwerk Mannheim
+oil,1832,swb Erzeugung AG & Co. KG,DE,GT 3 Bremen
+oil,1004,Uniper Kraftwerke GmbH,DE,GT Audorf
+oil,1212,Uniper Kraftwerke GmbH,DE,GT Itzehoe
+gas,1050,Rhodia Acetow GmbH,DE,GuD Anlage WVK
+gas,2195,Trianel Gaskraftwerk Hamm GmbH & Co. KG,DE,GuD Hamm - TGH
+gas,1444,Stadtwerke Leipzig GmbH,DE,GuD und Heizkraftwerk Nord
+gas,1403,envia THERM GmbH,DE,GuD-Anlage Bitterfeld
+gas,1886,EVH GmbH,DE,GuD-Anlage Dieselstraße
+gas,1844,Opel Automobile GmbH,DE,GuD-Anlage M-120
+gas,1497,InfraLeuna GmbH,DE,GuD-Anlage mit Spitzen- und Reservekessel
+gas,633,CIECH Energy Deutschland GmbH,DE,GuD-IKW Staßfurt
+gas,943,BASF Schwarzheide GmbH,DE,GuD-Kraftwerk
+gas,1027,Infraserv GmbH & Co. Höchst KG,DE,Heizkraftwerk - Geb. D 580
+gas,769,Heizkraftwerk Würzburg GmbH,DE,Heizkraftwerk an der Friedensbrücke
+gas,966,Stadtwerke Bochum Holding GmbH,DE,Heizkraftwerk Bochum Hiltrop
+coal,1098,eins energie in sachsen GmbH & Co. KG,DE,Heizkraftwerk Chemnitz Nord II
+coal,883,WSW Energie & Wasser AG,DE,Heizkraftwerk Elberfeld
+gas,686,Erlanger Stadtwerke AG,DE,Heizkraftwerk ESTW
+oil,776,Stadtwerke Düsseldorf AG,DE,Heizkraftwerk Flingern - ohne Dampfbereich
+coal,865,Stadtwerke Frankfurt (Oder) GmbH,DE,Heizkraftwerk Frankfurt (Oder)
+gas,1331,Energieversorgung Gera GmbH,DE,Heizkraftwerk Gera-Nord
+gas,941,DSM Nutritional Products GmbH,DE,Heizkraftwerk Grenzach
+gas,823,envia THERM GmbH,DE,Heizkraftwerk Guben
+gas,854,Stadtwerke Münster GmbH,DE,Heizkraftwerk Hafen der Stadtwerke Münster GmbH
+coal,1452,EnBW Energie Baden-Württemberg AG,DE,Heizkraftwerk Heilbronn
+coal,1312,STEAG GmbH,DE,Heizkraftwerk Herne
+gas,1529,VOLKSWAGEN AKTIENGESELLSCHAFT,DE,Heizkraftwerk Kassel
+gas,1095,Stadtwerke Düsseldorf AG,DE,Heizkraftwerk Lausward
+gas,1275,RheinEnergie AG,DE,Heizkraftwerk Merheim
+gas,1276,RheinEnergie AG,DE,Heizkraftwerk Merkenich
+gas,1622,Braunschweiger Versorgungs-AG & Co. KG,DE,Heizkraftwerk Mitte Braunschweig
+gas,1235,Neubrandenburger Stadtwerke GmbH,DE,Heizkraftwerk Neubrandenburg
+biomass,1241,STEAG New Energies GmbH,DE,Heizkraftwerk Neufahrn
+gas,1644,Mainova AG,DE,Heizkraftwerk Niederrad
+gas,1279,RheinEnergie AG,DE,Heizkraftwerk Niehl
+coal,1527,VOLKSWAGEN AKTIENGESELLSCHAFT,DE,Heizkraftwerk Nord
+coal,741,SWM Services GmbH,DE,Heizkraftwerk Nord 2
+gas,1626,Braunschweiger Versorgungs-AG & Co. KG,DE,Heizkraftwerk Nord Braunschweig
+coal,948,Energieversorgung Offenbach AG,DE,Heizkraftwerk Offenbach
+gas,1077,Heizkraftwerk Pforzheim GmbH,DE,Heizkraftwerk Pforzheim
+gas,1746,Energie SaarLorLux AG,DE,Heizkraftwerk Römerbrücke
+gas,639,N-ERGIE Kraftwerke Gesellschaft mit beschränkter Haftung,DE,Heizkraftwerk Sandreuth
+gas,1551,Stadtwerke Bielefeld Gesellschaft mit beschränkter Haftung,DE,Heizkraftwerk Schildescher Str.
+gas,656,Stadtwerke Augsburg Energie GmbH,DE,Heizkraftwerk Stadtwerke Augsburg
+gas,747,SWM Services GmbH,DE,Heizkraftwerk Süd GuD
+gas,1280,RheinEnergie AG,DE,Heizkraftwerk Südstadt
+coal,951,Vattenfall Wärme Hamburg GmbH,DE,Heizkraftwerk Tiefstack
+coal,889,STEAG GmbH,DE,Heizkraftwerk Völklingen
+coal,1317,STEAG GmbH,DE,Heizkraftwerk Walsum
+coal,952,Vattenfall Wärme Berlin Aktiengesellschaft,DE,Heizkraftwerk Wedel
+other,1190,STEAG New Energies GmbH,DE,Heizkraftwerk Wellesweiler
+gas,1078,Mainova AG,DE,Heizkraftwerk West
+coal,1515,VOLKSWAGEN AKTIENGESELLSCHAFT,DE,Heizkraftwerk West
+gas,882,WSW Energie & Wasser AG,DE,HKW Barmen
+gas,901,Stadtwerke Suhl/Zella-Mehlis GmbH,DE,HKW Bohrhügel
+oil,1167,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Buch
+gas,1150,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Charlottenburg
+coal,1524,Stadtwerke Cottbus GmbH,DE,HKW Cottbus Gesamtanlage
+gas,751,DREWAG - Stadtwerke Dresden GmbH,DE,HKW Dresden-Nord
+gas,2894,Palm Power GmbH & Co. KG,DE,HKW Eltmann
+gas,1777,SWE Energie GmbH,DE,HKW Erfurt-Ost
+coal,760,Stadtwerke Flensburg GmbH,DE,HKW Heizkraftwerk Stadtwerke Flensburg GmbH
+gas,1174,Stadtwerke Duisburg Aktiengesellschaft,DE,HKW IIIA GT
+gas,973,Thüringer Energie AG,DE,HKW Jena
+gas,754,DREWAG - Stadtwerke Dresden GmbH,DE,HKW Kl Dresden
+gas,1170,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Klingenberg
+gas,1176,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Lichtenberg
+gas,1578,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Lichterfelde
+gas,1194,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Mitte
+coal,1175,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Moabit
+gas,739,DREWAG - Stadtwerke Dresden GmbH,DE,HKW NB Dresden
+gas,1475,Energie und Wasser Potsdam GmbH,DE,HKW Potsdam-Süd
+coal,1181,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Reuter
+coal,1179,Vattenfall Wärme Berlin Aktiengesellschaft,DE,HKW Reuter West
+gas,825,Stadtwerke Rostock Aktiengesellschaft,DE,HKW Rostock Marienehe
+gas,1084,Stadtwerke Schwäbisch Hall GmbH,DE,HKW Salinenstrasse
+gas,1047,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,DE,HKW Süd Schwerin
+gas,1334,"Georg-August-Universität Göttingen, Stiftung Öffen",DE,HKW Uni Göttingen
+gas,872,Stadtwerke Lemgo GmbH,DE,HKW-West Lemgo
+gas,703,Solvay Chemicals GmbH,DE,IKB Bernburg
+coal,1604,RWE Power Aktiengesellschaft,DE,Industriekraftwerk Berrenrath
+gas,1627,PIRELLI DEUTSCHLAND GmbH,DE,Industriekraftwerk Breuberg
+coal,1603,RWE Power Aktiengesellschaft,DE,Industriekraftwerk Frechen
+,676,PreussenElektra GmbH,DE,Kernkraftwerk Brokdorf
+gas,1028,Stadtwerke Kiel Aktiengesellschaft,DE,Kiel HKW Humboldtstr.
+gas,1014,Städtische Werke Energie + Wärme GmbH,DE,Kombi-Heizkraftwerk Kassel (Kombi-HKW)
+coal,1607,RWE Power Aktiengesellschaft,DE,Kraftwerk  Weisweiler
+coal,1450,EnBW Energie Baden-Württemberg AG,DE,Kraftwerk Altbach
+coal,1399,Gemeinschaftskraftwerk Bergkamen A beschränkt haftende OHG,DE,Kraftwerk Bergkamen
+coal,852,STEAG GmbH,DE,Kraftwerk Bexbach
+gas,1483,RWE Generation SE,DE,Kraftwerk Bochum
+coal,1453,Lausitz Energie Kraftwerke AG,DE,Kraftwerk Boxberg Werk III
+coal,1454,Lausitz Energie Kraftwerke AG,DE,Kraftwerk Boxberg Werk IV
+coal,1133,Mitteldeutsche Braunkohlengesellschaft mbH,DE,Kraftwerk Deuben
+gas,1485,RWE Generation SE,DE,Kraftwerk Dormagen
+gas,1482,RWE Generation SE,DE,Kraftwerk Dortmund
+gas,1479,RWE Generation SE,DE,Kraftwerk Emsland (Lingen)
+coal,839,VSE Aktiengesellschaft,DE,Kraftwerk Ensdorf Block 1
+coal,838,VSE Aktiengesellschaft,DE,Kraftwerk Ensdorf Block 3
+coal,999,ENGIE Deutschland AG,DE,Kraftwerk Farge
+gas,1446,Uniper Kraftwerke GmbH,DE,Kraftwerk Franken I
+coal,1605,RWE Power Aktiengesellschaft,DE,Kraftwerk Frimmersdorf
+oil,1567,RhönEnergie Fulda GmbH,DE,"Kraftwerk Fulda, Frankfurterstraße (KF)"
+coal,1601,RWE Power Aktiengesellschaft,DE,Kraftwerk Goldenberg
+coal,1238,swb Erzeugung AG & Co. KG,DE,Kraftwerk Hafen Block 6
+coal,1253,swb Erzeugung AG & Co. KG,DE,Kraftwerk Hastedt Block 15
+coal,1291,Uniper Kraftwerke GmbH,DE,Kraftwerk Heyden
+gas,1486,Hüttenwerke Krupp Mannesmann GmbH,DE,Kraftwerk Huckingen
+gas,995,Uniper Kraftwerke GmbH,DE,Kraftwerk Huntorf
+coal,1480,RWE Generation SE,DE,Kraftwerk Ibbenbüren
+coal,1456,Lausitz Energie Kraftwerke AG,DE,Kraftwerk Jänschwalde
+gas,1113,Energieservice Westfalen Weser GmbH,DE,Kraftwerk Kirchlengern
+gas,1012,Uniper Kraftwerke GmbH,DE,Kraftwerk Kirchmöser
+coal,809,Currenta GmbH & Co. OHG,DE,Kraftwerk L 57 NW 0019136 83
+coal,1460,Lausitz Energie Kraftwerke AG,DE,Kraftwerk Lippendorf
+coal,1313,STEAG GmbH,DE,Kraftwerk Lünen
+gas,1064,Kraftwerke Mainz-Wiesbaden AG,DE,Kraftwerk Mainz
+oil,1455,EnBW Energie Baden-Württemberg AG,DE,Kraftwerk Marbach
+coal,939,Kraftwerk Mehrum GmbH,DE,Kraftwerk Mehrum Block 3
+,1759,Kraftwerk Mehrum GmbH,DE,Kraftwerk Mehrum Hilfskessel
+coal,833,Currenta GmbH & Co. OHG,DE,Kraftwerk N 230 NW 0019136 84
+coal,1606,RWE Power Aktiengesellschaft,DE,Kraftwerk Neurath
+coal,1649,RWE Power Aktiengesellschaft,DE,Kraftwerk Niederaußem
+coal,1309,KNG Kraftwerks- und Netzgesellschaft mbH,DE,Kraftwerk Rostock
+coal,1376,Uniper Kraftwerke GmbH,DE,Kraftwerk Schkopau
+coal,1205,Uniper Kraftwerke GmbH,DE,Kraftwerk Scholven
+coal,1459,Lausitz Energie Kraftwerke AG,DE,Kraftwerk Schwarze Pumpe
+gas,1458,EnBW Energie Baden-Württemberg AG,DE,Kraftwerk Stuttgart-Gaisburg
+coal,1131,Mitteldeutsche Braunkohlengesellschaft mbH,DE,Kraftwerk Wählitz
+coal,1464,EnBW Energie Baden-Württemberg AG,DE,Kraftwerk Walheim
+coal,845,STEAG GmbH,DE,Kraftwerk Weiher III
+coal,1526,Mark-E Aktiengesellschaft,DE,Kraftwerk Werdohl-Elverlingsen
+gas,1477,RWE Generation SE,DE,Kraftwerk Werne
+coal,969,Uniper Kraftwerke GmbH,DE,Kraftwerk Wilhelmshaven
+coal,963,ENGIE Deutschland AG,DE,Kraftwerk Zolling - Block 5 und Hilfskesselanlage
+coal,1318,Kraftwerk Voerde beschränkt haftende OHG,DE,KW Voerde
+coal,1592,STEAG GmbH,DE,KW West Voerde
+coal,851,STEAG GmbH,DE,Modellkraftwerk Völklingen
+oil,849,Peißenberger Kraftwerksgesellschaft mit beschränkter Haftung,DE,Peißenberger Kraftwerks GmbH - Kraftwerk Hausham
+oil,1367,RKB Raffinerie-Kraftwerks-Betriebs GmbH,DE,Raffineriekraftwerk Leuna
+coal,1457,EnBW Energie Baden-Württemberg AG,DE,RDK Karlsruhe
+oil,1202,envia THERM GmbH,DE,Spitzenlastkraftwerk Sermuth
+oil,1361,envia THERM GmbH,DE,Spitzenstromanlage Großkayna
+gas,1076,envia THERM GmbH,DE,Spitzenstromanlage Wolfen
+gas,1083,Infraserv GmbH & Co. Gendorf KG,DE,T02 Kraftwerk
+gas,828,Currenta GmbH & Co. OHG,DE,X- Kraftwerk NW 1054088 207
+coal,1666,Stadtwerke Duisburg Aktiengesellschaft,DE,ZAWSF Duisburg
+coal,52,HOFOR Energiproduktion A/S,DK,Amagerværket
+coal,48,Ørsted Bioenergy & Thermal Power A/S,DK,Asnæsværket
+gas,390,Aulum fjernvarme Amba,DK,"Aulum Fjernvarme a.m.b.a, Kulvej 5"
+coal,42,Ørsted Bioenergy & Thermal Power A/S,DK,Avedøreværket
+gas,28,Gudenådalens Energiselskab Amba,DK,Bjerringbro Kraftvarmeværk (motor 1-4)
+gas,234,Bogense Forsyningsselskab,DK,Bogense Forsyningsselskab
+gas,10,Brædstrup Totalenergianlæg A/S,DK,Brædstrup Totalenergianlæg A/S
+gas,186,Bramming Fjernvarme amba,DK,Bramming Fjernvarme Amba
+gas,180,Brande Fjernvarme A.m.b.a.,DK,Brande Fjernvarme A.m.b.a.
+gas,167,Brønderslev Varme A/S,DK,Brønderslev Varme A/S
+gas,19,Brørup Fjernvarme A m b a,DK,Brørup Fjernvarme
+gas,140,Brovst Fjernvarme Andelsselskab,DK,Brovst Fjernvarme
+,73,Ørsted Bioenergy & Thermal Power A/S,DK,"DONG Energy Generation A/S, Herningværket"
+gas,72,Ørsted Bioenergy & Thermal Power A/S,DK,"DONG Energy Generation A/S, Skærbækværket"
+gas,75,Skjern Fjernvarme,DK,"DONG Energy Generation A/S, Skjern Kraftvarmeværk"
+coal,71,Ørsted Bioenergy & Thermal Power A/S,DK,"DONG Energy Generation A/S, Studstrupværket"
+coal,80,Ørsted Bioenergy & Thermal Power A/S,DK,"DONG Energy Generation, Esbjergværket"
+gas,43,DC Generation A/S,DK,DTU Kraftvarmeværk
+,382,EFFEKTMARKED.DK A/S,DK,Effektmarked DK I/S
+gas,359,Fællinggaard Varmeforsyning ApS,DK,Fællinggaard Varmeforsyning Aps
+gas,100,FFV VARME A/S,DK,FFV Varme A/S
+gas,61,E.ON Produktion Danmark A/S,DK,Frederikssund Kraftvarmeværk
+coal,69,FJERNVARME FYN PRODUKTION A/S,DK,Fynsværket
+gas,225,Gram Fjernvarme,DK,Gram Fjernvarme AMBA
+coal,70,Verdo Produktion A/S,DK,Grenå Kraftvarmeværk
+gas,53,Ørsted Bioenergy & Thermal Power A/S,DK,H.C. Ørstedsværket
+gas,179,Haderslev Fjernvarme,DK,Haderslev Fjernvarme
+gas,378,Helsinge Fjernvarme,DK,Helsinge Fjernvarme
+gas,44,Helsingør Kraftvarmeværk A/S,DK,Helsingør Kraftvarmeværk
+gas,45,Hillerød Kraftvarme Aps,DK,Hillerød Kraftvarmeværk
+gas,111,Hjallerup Fjernvarmeværk,DK,Hjallerup Fjernvarmeselskab
+gas,86,FJERNVARME HORSENS A/S,DK,Horsens Kraftvarmeværk
+gas,207,Hvide Sande Fjernvarme A.m.b.a.,DK,Hvide Sande Fjernvarme
+gas,40,Jægerspris Kraftvarme Amba,DK,Jægerspris Kraftvarme.
+gas,30,Jetsmark Energiværk AMBA,DK,Jetsmark Energiværk A.m.b.a.
+gas,158,"FORS Varme Holbæk, Jyderup A/S",DK,Jyderup Varmeværk
+,87,GEV Varme A/S,DK,KVV Grønningen/Central 2
+,88,GEV Varme A/S,DK,KVV Tårnvej
+oil,47,Ørsted Bioenergy & Thermal Power A/S,DK,Kyndbyværket
+gas,20,Lem varmeværk,DK,Lem Varmeværk
+gas,249,ØRSTED Salg & Service A/S,DK,Nybro Gasbehandlingsanlæg
+gas,177,NYKØBING M FJERNVARMEVÆRK A M B A,DK,Nykøbing Mors Fjernvarmeværk
+gas,164,Nykøbing Sj Varmeværk,DK,Nykøbing S. Varmeværk
+gas,18,Andelsselskabet Oksbøl Varmeværk,DK,Oksbøl Varmeværk
+oil,91,Bornholms El-Produktion A/S,DK,Østkraft
+gas,176,Ribe Fjernvarme AMBA,DK,Ribe Kraftvarmeværk
+gas,74,RINGKØBING FJERNVARMEVÆRK A M B A,DK,Ringkøbing Værket
+,55,Ringsted Kraftvarmeværk A/S,DK,Ringsted Kraftvarmeværk
+gas,188,Sæby Varmeværk amba,DK,Sæby Varmeværk
+gas,68,Silkeborg Varme A/S,DK,Silkeborg Varme A/S - Kraftvarmeværket
+gas,183,SINDAL VARMEFORSYNING A M B A,DK,Sindal Varmeforsyning
+gas,110,Skagen Varmeværk a.m.b.a.,DK,Skagen Kraftvarmeværk
+gas,64,Smørum Kraftvarme A.m.b.A,DK,Smørum Kraftvarme.
+gas,39,Sønderborg Kraftvarmeværk I/S,DK,Sønderborg Kraftvarme I/S
+gas,27,Støvring Kraftvarmeværk A.m.b.a.,DK,Støvring Varmeværk
+gas,54,Ørsted Bioenergy & Thermal Power A/S,DK,Svanemølleværket
+gas,168,Svendborg Fjernvarme A.M.B.A.,DK,Svendborg Kraftvarmeværk
+gas,103,Thisted Varmeforsyning amba,DK,Thisted Varmeforsyning
+,187,Toftlund Fjernvarme A.m.b.a,DK,Toftlund Fjernvarmecentral
+gas,174,Vamdrup Fjernvarme A M B A,DK,Vamdrup Fjernvarme I.m.b.a
+coal,78,Nordjyllandsværket A/S,DK,Vattenfall A/S Nordjyllandsværket
+gas,5,ENERGI VIBORG KRAFTVARME A/S,DK,Viborg Kraftvarme A/S
+gas,106,Videbæk Varme A/S,DK,Videbæk Energiforsyning
+gas,139,Vildbjerg Varmeværk A.m.b.a.,DK,Vildbjerg Varmeværk A.m.b.a
+gas,104,Vinderup Varmeværk A M B A,DK,Vinderup Varmeværk
+gas,195,Vrå Varmeværk Amba,DK,Vrå Varmeværk
+oil,1,Enefit Energiatootmine AS,EE,Balti Elektrijaam
+oil,2,Enefit Energiatootmine AS,EE,Eesti Elektrijaam
+oil,41,"Aceites Sierra Sur,  S.A",ES,Aceites Sierra Sur
+gas,433,Alpiq Energía España S.A.U,ES,"Alpig Energia España, S.A.U."
+gas,772,"Bahía de Bizkaia Electricidad, SL",ES,Bahía de Bizkaia Electricidad - BBE
+gas,27,"Bioenergía Santamaría, S.A.",ES,"Bioenergía Santamaría, S.A."
+gas,432,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC - Besos
+gas,731,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC - Cartagena
+gas,649,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC Sabón
+gas,574,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC. - Sagunto
+gas,48,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC.- San Roque 1
+gas,325,"Gas Natural Fenosa Generación, S.L.U.",ES,CCC-Aceca
+gas,700,"SAMPOL INGENIERÍA Y OBRAS, S.A.",ES,Central de Cogeneración Aeropuerto Barajas
+coal,203,"EDP España, S.A.",ES,"Central Térmica de  Soto de Ribera 1, 2 y 3"
+gas,746,"EDP España, S.A.",ES,Central Térmica de Ciclo Combinado - Castejón -1
+coal,648,"Gas Natural Fenosa Generación, S.L.U.",ES,Central Térmica- Meirama
+gas,399,"Cofely Energía Martorell, SL",ES,"Cofely Energía Martorell, SL"
+gas,256,"COGEN ERESMA, S.L.",ES,Cogen Eresma
+oil,639,"Cogeneración del Noroeste, S.L.",ES,Cogeneración del Noroeste - San Cibrao das Viñas
+gas,765,"Cogeneración Gequisa, SA",ES,Cogeneración Gequisa
+oil,29,"Cogeneración Villaricos, S.A. - Covisa",ES,"Cogeneración Villaricos, S.A. - Covisa"
+gas,258,"COGENERADORA BURGALESA, S.L.",ES,Cogeneradora Burgalesa
+gas,401,Compañía de Explotaciones Energéticas. S.L.,ES,"Compañía de Explotaciones Energéticas, S.L."
+,1502,"Compañía Energética de las Villas, S.L.",ES,"Compañía Energética de las Villas, S.L."
+gas,30,"Compañía Energética Pata de Mulo, S.L.",ES,"Compañía Energetica de Pata de Mulo, S.L."
+coal,44,"VIESGO GENERACIÓN, S.L.",ES,"E.ON GENERACIÓN, S.L.- Los Barrios"
+,827,"EDP España, S.A.",ES,"EDP España, S.A."
+coal,201,"EDP España, S.A.",ES,"EDP España, S.A. - Aboño 1"
+gas,47,"Endesa Generación, S.A.",ES,"Endesa Ciclos Combinados, S.L. - San Roque 2"
+coal,173,"Endesa Generación, S.A.",ES,Endesa Generación - Teruel
+,719,"Endesa Generación, S.A.",ES,Endesa Generación S.A. - C.D. Melilla
+gas,1508,"Endesa Generación, S.A.",ES,"Endesa Generación, S.A. - As Pontes"
+gas,431,"Endesa Generación, S.A.",ES,"Endesa Generación, S.A. - Besos"
+,526,"Endesa Generación, S.A.",ES,"Endesa Generación, S.A. - C.D. Ceuta"
+coal,43,"Endesa Generación, S.A.",ES,"Endesa Generación, S.A. - Litoral"
+coal,647,"Endesa Generación, S.A.",ES,"Endesa Generación, S.A. - Puentes"
+gas,261,"ENERCRISA, S.A",ES,Enercrisa
+,262,"ENERGYWORKS ARANDA, S.L.",ES,"Energyworks Aranda, S.L."
+oil,636,"Energyworks Carballo, S.L.",ES,"Energyworks Carballo, S.L."
+gas,725,"EnergyWorks Cartagena, S.L.",ES,"Energyworks Cartagena, S.L."
+gas,764,"ENERGYWORKS VIT-VALL, S.L.",ES,Energyworks Vitoria
+oil,320,"Enersur Siglo 21, S.L.Unipersonal",ES,Enersur Tarancón
+oil,310,FRIMANCHA INDUSTRIAS CÁRNICAS S.A,ES,FRIMANCHA
+,676,GAS Y ELECTRICIDAD GENERACION SAU,ES,Gas y Electricidad Generación S.A.U.-C.T. Son Reus
+,1509,GAS Y ELECTRICIDAD GENERACION SAU,ES,Gas y Electricidad Generación SAU-CT Cas Tresorer
+,680,GAS Y ELECTRICIDAD GENERACION SAU,ES,"Gas y Electricidad Generación, S.A.U. - Alcudia"
+,679,GAS Y ELECTRICIDAD GENERACION SAU,ES,"Gas y Electricidad Generación, S.A.U. - Maó"
+,678,GAS Y ELECTRICIDAD GENERACION SAU,ES,"Gas y Electricidad Generación, S.A.U.-C.T. Eivissa"
+,677,GAS Y ELECTRICIDAD GENERACION SAU,ES,"Gas y Electricidad Generación, SAU - CT Formentera"
+gas,66,"Generación Eléctrica Peninsular, S.A.",ES,GEPESA -  Cogeneración la Rábida
+,65,"Generación Eléctrica Peninsular, S.A.",ES,GEPESA - Cogeneración Refinería Gibraltar
+oil,36,"Granada Vapor y Electricidad, S.L.",ES,"Granada Vapor y Electricidad, S.L."
+gas,573,"Iberdrola Generación, S.A.U.",ES,Iberdrola Generación SAU-Castellón ciclo combinado
+gas,324,"Iberdrola Generación, S.A.U.",ES,"Iberdrola Generación, S.A.U. - Aceca 3"
+coal,206,"Iberdrola Generación, S.A.U.",ES,"Iberdrola Generación, S.A.U. - Lada 3 y 4"
+gas,742,"IESA Intermalta Energia, S.A.",ES,Iesa Intermalta Energia
+oil,200,"Industrias Lácteas Asturianas, S.A.",ES,"Ind. Láct. Asturianas,S.A.-Fca. leche,nata y suero"
+gas,237,"Repsol Química, SA",ES,Instalación Cogeneración Marina Cudeyo
+gas,415,"NEO SC ARAN, SLU",ES,"Neo SC Arán, S.L.U."
+gas,171,"Neo SC El Grado, S.L.U.",ES,"Neo SC El Grado, S.L.U."
+gas,23,"Neo SC Morón, S.L.U.",ES,"Neo SC Morón, S.L.U."
+gas,163,"Neoelectra SC Cinca Verde, S.L.U.",ES,"Neoelectra SC Cinca Verde, S.L.U."
+gas,266,"Neoelectra SC Cogeneración, S.L.U.",ES,"Neoelectra SC Cogeneración, S.L.U."
+gas,22,"Neoelectra SC Fuente de Piedra Gestión, S.L.U",ES,"Neoelectra SC Fuente de Piedra Gestión, S.L.U"
+gas,37,"Olextra, S.A.",ES,"Olextra, S.A."
+gas,38,"Orujera Sierra Sur, S.L.U.",ES,"Orujera Sierra Sur, S.L.U."
+,35,"Generación Eléctrica Peninsular, S.A.",ES,"Planta Cogeneración Cepsa Química,S.A-Guadarranque"
+oil,644,"Boiro Energía, S.A.",ES,Planta de Cogeneración de Boinersa
+,34,"Generación Eléctrica Peninsular, S.A.",ES,Planta de Cogeneración de Cepsa Química -Fab Palos
+,645,"Depuración, Destilación, Reciclaje, S.L.",ES,Planta de Cogeneración de DDR
+gas,426,"Rencat, A.I.E.",ES,Rencat A.I.E.
+oil,465,"Rofeica Energía, SA",ES,Rofeica Energía S.A.
+gas,438,"Tarragona Power, s.l.",ES,Tarragona Power S.L.
+gas,428,Tortosa Energía S.A.,ES,Tortosa Energía
+,228,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléct. Canarias Generación-CE Los Guinchos
+,223,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléct. de Canarias Generación-CD Las Salinas
+,90008,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléct. de Canarias Generación-Llanos Blancos
+,225,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléct.Canarias Generac.-CT Barranco Tirajana
+,224,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctr. Canarias Generación-CD Punta Grande
+,226,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctr. de Canarias Generación-CT Candelaria
+,222,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctr. de Canarias Generación-CT Granadilla
+,90009,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctrica de Canarias Generación - El Palmar
+,229,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctrica de Canarias Generación -Arona
+,227,"Unión Eléctrica de Canarias Generación, S.A.U.",ES,Unión Eléctrica de Canarias Generación-CT Jinámar
+biomass,510,Äänevoima Oy,FI,Äänekosken voimalaitos
+biomass,239,Pori Energia Oy,FI,Aittaluodon voimalaitos
+biomass,147,Kuopion Energia Oy,FI,Haapaniemi
+biomass,564,Vapo Oy,FI,Haapaveden voimalaitos
+coal,65,Helen Oy,FI,Hanasaari B
+oil,496,Suomen Teollisuuden Energiapalvelut STEP Oy,FI,Harjavalta
+biomass,486,Adven Oy,FI,Heinolan voimalaitos
+gas,145,KSS Energia Oy,FI,Hinksmäen voimalaitos
+biomass,481,Kotkan Energia Oy,FI,Hovinsaaren voimalaitos
+oil,517,Fingrid Oyj,FI,Huutokosken kaasuturbiinilaitos
+biomass,309,Savon Voima Oyj,FI,Iisalmen voimalaitos
+biomass,632,Porin Prosessivoima Oy,FI,Kaanaan voimalaitos
+oil,360,Vatajankosken Sähkö Oy,FI,Kankaanpään voimalaitos
+biomass,462,Adven Oy,FI,Kauttuan voimalaitos
+oil,530,Helen Oy,FI,Kellosaaren kaasuturbiinilaitos
+biomass,336,Vapo Oy,FI,Kevätniemen voimalaitos
+biomass,39,Vapo Oy,FI,Kiimassuon voimalaitos
+oil,518,Fingrid Oyj,FI,Kilpilahden kaasuturbiinilaitos
+gas,463,Sappi Finland Operations Oy,FI,Kirkniemen voimalaitos
+biomass,140,Kokkolan Energia Oy,FI,Kokkolan lämmitysvoimalaitos
+biomass,464,Kokkolan Energia Oy,FI,Kokkolan voimalaitos
+,20,Fortum Power and Heat Oy,FI,Kontiosuon voimalaitos
+oil,519,Fingrid Oyj,FI,Kristiinan kaasuturbiinilaitos
+biomass,56,Adven Oy,FI,Kuusamon voimalaitos
+biomass,483,Kymin Voima Oy,FI,Kuusankosken voimalaitos
+coal,168,Lahti Energia Oy,FI,Kymijärven voimalaitos
+biomass,476,Laanilan Voima Oy,FI,Laanilan Voima
+,473,Kainuun Voima Oy,FI,Lämpövoimalaitos
+gas,298,Tampereen Sähkölaitos Oy,FI,Lielahden voimalaitos
+,526,Fortum Power and Heat Oy,FI,Loviisan varavoima diesellaitos
+biomass,489,Mäntän Energia Oy,FI,Mäntän voimalaitos
+coal,333,Vantaan Energia Oy,FI,Martinlaakson voimalaitos
+coal,3,Fortum Power and Heat Oy,FI,Meri-Porin voimalaitos
+oil,521,Fingrid Oyj,FI,Naantalin kaasuturbiinilaitos
+coal,57,Turun Seudun  Energiantuotanto Oy,FI,Naantalin voimalaitos
+gas,302,Tampereen Sähkölaitos Oy,FI,Naistenlahden voimalaitos
+,590,Mariehamns Energi Ab,FI,Neptunigatan G1 och G4
+gas,490,Leppäkosken Sähkö Oy,FI,Nokian voimalaitos
+oil,602,Fingrid Oyj,FI,Olkiluodon kaasuturbiinilaitos
+,531,Teollisuuden Voima Oyj,FI,Olkiluodon ydinvoimalaitos
+biomass,316,Savon Voima Oyj,FI,Pieksämäen voimalaitos
+biomass,492,Oy Alholmens Kraft Ab,FI,Pietarsaaren voimalaitos
+,477,Porin Prosessivoima Oy,FI,Porin tehdas
+biomass,34,Etelä-Savon Energia Oy,FI,Pursialan lämmitysvoimalaitos
+biomass,100,Jyväskylän Energiantuotanto Oy,FI,Rauhalahti
+biomass,582,Rauman Biovoima Oy,FI,Rauman Voima Oy
+biomass,472,Järvi-Suomen Voima Oy,FI,Ristiinan voimalaitos
+coal,72,Helen Oy,FI,Salmisaaren voimalaitos
+gas,478,Keravan Energia Oy,FI,Savion voimalaitos
+biomass,104,Järvi-Suomen Voima Oy,FI,Savonlinna
+biomass,357,Vaskiluodon Voima Oy,FI,Seinäjoen voimalaitos
+oil,182,Lahti Energia Oy,FI,Sopenkorven lämpökeskus
+biomass,482,Kumpuniemen Voima Oy,FI,Suolahti
+coal,26,Fortum Power and Heat Oy,FI,Suomenojan voimalaitos
+biomass,270,Napapiirin Energia ja Vesi Oy,FI,Suosiola
+oil,522,Fingrid Oyj,FI,Tahkoluodon kaasuturbiinilaitos
+biomass,247,Porvoon Energia Oy-Borgå Energi Ab,FI,Tolkkisten höyryvoimalaitos
+oil,523,Fingrid Oyj,FI,Tolkkisten kaasuturpiinilaitokset 1 ja 2
+biomass,215,Oulun Energia Oy,FI,Toppilan voimalaitokset
+biomass,468,Stora Enso Oyj,FI,Uimaharjun voimalaitos
+oil,524,Fingrid Oyj,FI,Vanajan kaasuturbiinilaitos
+gas,53,Elenia Lämpö Oy,FI,Vanajan voimalaitos
+oil,525,Fingrid Oyj,FI,Vaskiluodon kaasuturbiinilaitos
+coal,358,Vaskiluodon Voima Oy,FI,Vaskiluoto 2 -voimalaitos
+biomass,454,Metsä Fibre Oy,FI,Vilppulan Saha
+gas,74,Helen Oy,FI,Vuosaaren A-voimalaitos
+gas,75,Helen Oy,FI,Vuosaaren B-voimalaitos
+coal,1016,ALBIOMA BOIS ROUGE,FR,ALBIOMA BOIS-ROUGE
+oil,1138,ALBIOMA GALION,FR,ALBIOMA GALION
+coal,1015,ALBIOMA LE GOL,FR,ALBIOMA LE GOL
+coal,1107,ALBIOMA LE MOULE,FR,ALBIOMA LE MOULE
+,1011,BORALEX BLENDECQUES SAS,FR,BORALEX Blendecques SAS
+gas,592,COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN (CPCU),FR,CPCU - chaufferie de Saint-Ouen III
+gas,1108,EDF SA,FR,EDF - Jarry Sud
+oil,1110,EDF SA,FR,EDF - St Martin
+oil,1040,EDF SA,FR,EDF - Vazzio
+,451,EDF SA,FR,EDF Centrale de Blénod
+coal,560,EDF SA,FR,EDF Centrale de Cordemais
+oil,694,EDF SA,FR,EDF Centrale de Porcheville
+coal,270,EDF SA,FR,EDF Centrale Le Havre
+gas,893,EDF SA,FR,EDF KOUROU
+oil,1114,EDF SA,FR,EDF Pointe des Carrières
+oil,171,EDF SA,FR,EDF TAC DE BRENNILIS
+oil,174,EDF SA,FR,EDF TAC DE DIRINON
+oil,590,EDF SA,FR,EDF TAC de Vitry-Arrighi
+oil,1111,ENERGIES ANTILLES,FR,ENERGIES ANTILLES - Site Jarry Sud
+,715,ENERLIS,FR,ENERLIS
+gas,996,ENERSOL,FR,ENERSOL
+gas,686,ENGIE ENERGIE SERVICES,FR,ENGIE ENERGIE SERVICES Chaufferie de Parly 2
+,241,ENGIE ENERGIE SERVICES,FR,ENGIE ES Chaufferie ZUP Chapelle St Luc
+gas,988,ENGIE THERMIQUE FRANCE,FR,ETF - CENTRALE DK6
+,623,FIGENAL SNC,FR,FIGENAL
+gas,1102,INDUSTELEC SUD EST,FR,INDUSTELEC SUD EST
+,637,LAVERA ENERGIES SNC,FR,LAVERA ENERGIES SNC
+gas,1126,PLAINE COMMUNE ENERGIE,FR,PCE - Fort de l'Est - Saint-Denis
+,111,PERIGORD ENERGIES,FR,PERIGORD ENERGIES
+gas,985,RESONOR,FR,RESONOR - Centrale Thermique du Mont de Terre
+gas,1124,SOCIETE DE DISTRIBUTION DE CHALEUR DE FIRMINY,FR,SDCF Sté de Distrib de Chaleur de Firminy
+,808,SETE,FR,SETE
+gas,881,SETHELEC,FR,SETHELEC CENTRALE DE COGENERATION DE GRAULHET
+gas,591,SNC COGE VITRY,FR,SNC COGE VITRY
+gas,301,TARANIS DU ROUVRAY,FR,TARANIS DU ROUVRAY
+gas,488,UEM,FR,UEM Centrale de Chambière
+coal,587,UNIPER FRANCE POWER,FR,UNIPER FRANCE POWER Centrale de Provence
+gas,1133,UNIPER FRANCE POWER,FR,UNIPER FRANCE POWER Centrale Emile Huchet
+gas,698,VELIDIS,FR,VELIDIS - Chaufferie Vélizy III
+oil,24,ΔΕΗ  ΑΕ,GR,ΑΗΣ ΛΙΝΟΠΕΡΑΜΑΤΩΝ
+oil,26,ΔΕΗ  ΑΕ,GR,ΑΗΣ ΡΟΔΟΥ
+oil,46,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΑΘΕΡΙΝΟΛΑΚΚΟΥ
+,41,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΚΑΡΠΑΘΟΥ
+,30,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΚΩ
+,27,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΛΕΣΒΟΥ
+,39,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΜΗΛΟΥ
+,35,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΜΥΚΟΝΟΥ
+,34,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΠΑΡΟΥ
+,32,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΣΑΜΟΥ
+,28,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΣΥΡΟΥ
+,31,ΔΕΗ  ΑΕ,GR,ΑΣΠ ΧΙΟΥ
+coal,15,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΑΗΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ
+coal,14,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΑΗΣ ΚΑΡΔΙΑΣ
+oil,25,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΑΗΣ ΧΑΝΙΩΝ
+coal,16,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΑΜΥΝΤΑΙΟ ΦΛΩΡΙΝΑΣ
+gas,22,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΚΟΜΟΤΗΝΗΣ
+oil,21,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΛΑΥΡΙΟΥ
+coal,18,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ - ΜΟΝΑΔΑ IV
+coal,17,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ Α
+coal,19,ΔΕΗ  ΑΕ,GR,ΑΤΜΟΗΛΕΚΤΡΙΚΟΣ ΣΤΑΘΜΟΣ ΜΕΛΙΤΗΣ
+gas,154,ELPEDISON (ΠΡ ΕΝΕΡΓΕΙΑΚΗ ΘΕΣΣΑΛΟΝΙΚΗΣ Α.Ε.),GR,ΣΤΑΘΜΟΣ ΠΑΡΑΓΩΓΗΣ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΘΕΣ/ΚΗΣ
+,168,ΔΕΗ  ΑΕ,GR,ΤΣΠ ΠΑΤΜΟΥ
+gas,36,Alpiq Csepel Kft.,HU,Alpiq Csepel II. Erőmű
+coal,13,Bakonyi Erõmû Zrt.,HU,Bakonyi Erőmű Zrt. Ajkai Hőerőmű
+gas,22,Budapesti Eromu ZRt.,HU,BERT Rt. Kelenföldi Komb.Cikl. Gázt.Hoszolg. Eromu
+gas,23,Budapesti Eromu ZRt.,HU,BERT Rt. Kispesti Komb. Cikl. Gázt. Hoszolg. Eromu
+gas,24,Budapesti Eromu ZRt.,HU,BERT Rt. Újpesti Komb. Cikl. Gázt. Hoszolg. Eromu
+gas,54,Dunamenti Erõmû Zrt.,HU,Dunamenti Zrt.
+gas,254,MVM Észak-Budai Kogenerációs Futoeromu Kft.,HU,Észak-Budai Fűtőerőmű Kft.
+gas,63,ISD POWER Energiatermelo és Szolgáltató Kft.,HU,ISD POWER Kft. Erőmű
+coal,142,Mátrai Erõmû Zrt.,HU,Mátrai Erőmű ZRt. Visontai Erőmű
+gas,112,Viridian Power Limited,IE,CCGT HPC2 (Huntstown Power Station Phase II)
+gas,14,Synergen Power Limited Power Plant,IE,Dublin Bay Power Plant
+gas,6,Edenderry Power Limited,IE,Edenderry Power Plant
+other,52,Electricity Supply Board,IE,ESB Lough Ree Power
+coal,54,Electricity Supply Board,IE,ESB Moneypoint Generating Station
+gas,118,Electricity Supply Board,IE,ESB Poolbeg Generating Station (CCGT)
+other,59,Electricity Supply Board,IE,ESB West Offaly
+oil,108,SSE Generation Ireland Limited,IE,Rhode Generating Station
+gas,71,Tynagh Energy Limited,IE,Tynagh 400MW CCPP
+gas,1072,Alto Garda Power S.r.l.,IT,Alto Garda Power
+gas,955,EDISON SPA,IT,Altomonte
+,1056,Amga Legnano Spa,IT,Amga Legnano Spa
+gas,483,EDISON SPA,IT,BUSSI SUL TIRINO
+coal,85,Iren Energia S.p.A.,IT,CAE - Centrale di cogenerazione di Sampierdarena
+gas,965,Calenia Energia SpA,IT,Calenia Energia
+gas,1020,A2A CALORE & SERVIZI Srl,IT,Canavese
+gas,956,EDISON SPA,IT,Candela
+gas,287,Cargill S.r.l.,IT,Cargill srl-centrale Castelmassa
+biomass,499,C&T SpA,IT,Centrale a Biomasse C & T  S. r. l.
+gas,985,Sorgenia Power SpA,IT,Centrale a ciclo combinato di Termoli
+gas,45,NOVEL SPA,IT,Centrale di Cogenerazione
+,124,EniPower S.p.A.,IT,Centrale di Cogenerazione
+gas,100,SEA Energia spa,IT,CENTRALE DI COGENERAZIONE AEROPORTO MALPENSA
+gas,230,AGSM Verona Spa,IT,Centrale di Cogenerazione di Centro Città
+gas,1009,Società Elettrica in Morbegno c.p.a.,IT,Centrale di cogenerazione e teleriscaldamento
+gas,1068,A2A GENCOGAS S.P.A.,IT,CENTRALE DI GISSI
+gas,680,Innovatec S.p.A.,IT,Centrale di Rivoli
+gas,586,EP Produzione S.p.A.,IT,Centrale di Tavazzano e Montanaso
+gas,659,Aziende Industriali Municipali Vicenza SpA,IT,CENTRALE DI TELERISCALDAMENTO DI VIALE CRICOLI
+gas,957,SET Spa,IT,Centrale di Teverola
+gas,497,ENI S.P.A.,IT,Centrale di Torrente Tona
+,534,S.MED.E. PANTELLERIA S.P.A.,IT,CENTRALE ELETTRICA
+biomass,508,Ital Green Energy srl,IT,Centrale elettrica con motori endotermici
+gas,498,Fenice spa,IT,Centrale termica
+gas,42,Polioli S.p.A.,IT,Centrale Termica Polioli
+,23,Fenice spa,IT,centrale termoelettrica
+,523,Fenice spa,IT,centrale termoelettrica
+gas,645,TECNOPARCO VALBASENTO,IT,CENTRALE TERMOELETTRICA
+,1015,Free Energia S.p.A.,IT,Centrale Termoelettrica
+biomass,509,Ital Green Energy srl,IT,Centrale termoelettrica a biomasse solide
+gas,410,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA D PORTOFERRARIO
+coal,521,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI  BRINDISI SUD
+coal,275,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI  FUSINA
+gas,307,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI  LA CASELLA
+gas,654,A2A GENCOGAS S.P.A.,IT,CENTRALE TERMOELETTRICA DI CASSANO D'ADDA
+coal,649,Fiume Santo S.p.A.,IT,Centrale termoelettrica di fiumesanto
+coal,88,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI LA SPEZIA
+gas,1026,E.ON Produzione Centrale Livorno Ferraris S.p.A.,IT,Centrale Termoelettrica di Livorno Ferraris
+gas,14,Iren Energia S.p.A.,IT,Centrale Termoelettrica di Moncalieri
+coal,301,A2A ENERGIEFUTURE S.P.A.,IT,Centrale Termoelettrica di Monfalcone
+gas,200,EP Produzione S.p.A.,IT,Centrale Termoelettrica di Ostiglia
+gas,311,A2A GENCOGAS S.P.A.,IT,CENTRALE TERMOELETTRICA DI PIACENZA LEVANTE
+gas,546,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI PORTO EMPEDOCLE
+gas,564,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI PRIOLO GARGALLO
+oil,543,A2A ENERGIEFUTURE S.P.A.,IT,CENTRALE TERMOELETTRICA DI SAN FILIPPO DEL MELA
+coal,573,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI SULCIS
+gas,538,ENEL PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA DI TERMINI IMERESE
+gas,1010,ENGIE Produzione S.p.A.,IT,Centrale Termoelettrica Leinì
+gas,963,ENGIE Produzione S.p.A.,IT,Centrale Termoelettrica Roselectra
+gas,202,A2A GENCOGAS S.P.A.,IT,CENTRALE TERMOELETTRICA SERMIDE
+gas,656,ACEA PRODUZIONE S.p.A.,IT,CENTRALE TERMOELETTRICA TOR DI VALLE
+coal,438,Tirreno Power SpA,IT,Centrale Termoelettrica Torrevaldaliga
+coal,79,Tirreno Power SpA,IT,Centrale Termoelettrica Vado Ligure
+gas,535,EP Produzione S.p.A.,IT,Centrale Turbogas di Trapani
+gas,924,ASM VOGHERA SPA,IT,Cogenerazione e teleriscaldamento Texiria
+gas,216,Novareti S.p.A.,IT,Cogenerazione zona industriale
+,954,Condino Energia srl,IT,Condino Energia
+gas,563,ISAB S.r.l.,IT,CTE RAFFINERIA ISAB IMPIANTI SUD
+gas,185,LINEA RETI E IMPIANTI S.R.L.,IT,CTEC - Centrale TermoElettrica Cogenerativa
+coal,159,A2A CALORE & SERVIZI Srl,IT,CTEC LAMARMORA
+gas,197,EniPower Mantova S.p.A.,IT,EniPower Mantova
+gas,517,EniPower S.p.A.,IT,EniPower S.p.A. - Stabilimento di Brindisi
+gas,355,EniPower S.p.A.,IT,EniPower S.p.A. - Stabilimento di Ravenna
+gas,179,EniPower S.p.A.,IT,EniPower S.p.A.- Stabilimento di Ferrera Erbognone
+gas,562,ERG Power S.r.l.,IT,ERG Power
+gas,118,A2A CALORE & SERVIZI Srl,IT,FAMAGOSTA
+gas,1004,Ferrero Industriale Italia srl,IT,Ferrero Industriale Italia
+gas,3,ENERGIE S.r.l.,IT,IMPIANTO DI BARDONECCHIA
+gas,561,ISAB S.r.l.,IT,IMPIANTO IGCC
+gas,1022,SEA Energia spa,IT,LINATE
+gas,272,EDISON SPA,IT,MARGHERA AZOTATI
+gas,270,EDISON SPA,IT,MARGHERA LEVANTE
+gas,542,TERMICA MILAZZO SRL,IT,MILAZZO
+gas,752,SOLVAY CHIMICA ITALIA SPA,IT,Nuova Rosen
+gas,387,DS Smith Paper Italia srl,IT,PORCARI
+gas,404,ENI S.P.A.,IT,Raffineria di Livorno - CTE
+gas,513,ENI S.P.A.,IT,Raffineria di Taranto
+gas,647,Iren Energia S.p.A.,IT,RETE 1
+gas,322,Iren Energia S.p.A.,IT,RETE 2
+gas,1031,Rizziconi Energia S.p.A.,IT,Rizziconi Energia
+biomass,757,San Marco Bioenergie S.p.A.,IT,San Marco Bioenergie S.p.A.
+gas,126,EDISON SPA,IT,SESTO SAN GIOVANNI
+gas,1013,EDISON SPA,IT,Simeri Crichi
+gas,754,Società Enipower Ferrara S.r.l.,IT,Società EniPower - Stabilimento di Ferrara
+gas,67,SOLVAY SPECIALTY POLYMERS ITALY SPA,IT,SPINETTA MARENGO
+biomass,795,TAMPIERI ENERGIE SRL - FAENZA- RA,IT,T.ENERGY
+gas,511,Taranto Energia S.r.l. in Amministrazione Straordinaria,IT,TARANTO ENERGIA SRL
+gas,117,A2A CALORE & SERVIZI Srl,IT,TECNOCITY
+biomass,861,AZIENDA PUBBLISERVIZI BRUNICO,IT,TELERISCALDAMENTO BRUNICO
+gas,434,EDISON SPA,IT,TERNI
+gas,986,EDISON SPA,IT,TORVISCOSA
+gas,989,TRIGNO ENERGY SRL,IT,TRIGNO ENERGY
+gas,132,Iren Energia S.p.A.,IT,TURBIGO
+gas,65,GEVER S.p.A.,IT,VERZUOLO
+gas,182,VOGHERA ENERGIA S.p.A.,IT,VOGHERA ENERGIA S.p.A.
+gas,87,AB Lietuvos energijos gamyba,LT,Lietuvos elektrinė
+gas,44,AB Vilniaus silumos tinklai,LT,Termofikacinė elektrinė Nr. 2 (E-2)
+gas,1,Cegyco S.A.,LU,Cegyco S.A.
+gas,101,"A/S ""Valmieras Energija"" Rigas iela 25",LV,Installation 100
+gas,102,"A/S ""Valmieras Energija"" Dzelzcela iela 7",LV,Installation 101
+biomass,107,"SIA ""Rigens""",LV,Installation 106
+biomass,15,"A/S „Rigas siltums” siltumcentrale ""Daugavgriva""",LV,Installation 15
+gas,19,"A/S „Rigas siltums” siltumcentrale ""Imanta""",LV,Installation 19
+gas,20,SIA „Dobeles energija”,LV,Installation 20
+gas,39,PAS „Daugavpils siltumtikli” SC1,LV,Installation 39
+gas,42,SIA „Jekabpils siltums”,LV,Installation 42
+gas,6,AS “Latvenergo” TEC-1,LV,Installation 6
+gas,7,AS „Latvenergo” TEC-2,LV,Installation 7
+coal,172,RWE Generation NL B.V.,NL,Amercentrale
+gas,196,Delesto B.V.,NL,Delesto B.V.
+gas,192,DOW Benelux B.V.,NL,Dow Benelux B.V. BKG 10
+gas,191,Emmtec Services B.V.,NL,Emmtec Services B.V.
+gas,241,Eneco Warmteproductie Utrecht B.V.,NL,Eneco Centrale Lage Weide
+gas,187,Eneco Warmteproductie Utrecht B.V.,NL,Eneco Centrale Merwedekanaal
+gas,154,ENGIE Energie Nederland N.V.,NL,ENGIE Eemscentrale
+gas,198,Eurogen C.V.,NL,Eurogen C.V.
+gas,183,Nuon Power Generation B.V.,NL,Nuon Centrale Diemen
+gas,184,Nuon Power Generation B.V.,NL,Nuon Centrale Hemweg
+gas,188,Nuon Power Generation B.V.,NL,Nuon Power Velsen
+gas,214,Pergen V.O.F.,NL,Pergen VOF
+gas,160,Uniper Benelux N.V.,NL,Uniper Centrale De Constant Rebecqueplein
+gas,159,Uniper Benelux N.V.,NL,Uniper Centrale Leiden
+coal,163,Uniper Benelux N.V.,NL,Uniper Centrale Maasvlakte
+gas,161,Uniper Benelux N.V.,NL,Uniper Centrale RoCa
+gas,195,Ennatuurlijk B.V.,NL,WKC Eindhoven
+gas,168,Ennatuurlijk B.V.,NL,WKC Helmond 1 & 2
+gas,171,RWE Generation NL B.V.,NL,WKC Moerdijk
+coal,7,CEZ Skawina S.A.,PL,CEZ SKAWINA S.A.
+gas,70,PRZEDSIĘBIORSTWO ENERGETYCZNE W SIEDLCACH SP.ZO.O.,PL,CIEPŁOWNIA I ELEKROCIEPŁOWNIE GAZOWE SIEDLCE
+coal,82,Fortum Silesia SA,PL,EC Miechowice
+coal,46,Fortum Silesia SA,PL,EC Zabrze
+coal,25,Elektrociepłownia Andrychów,PL,Elektrociepłownia Andrychów Spółka z o.o.
+coal,30,ENEA WYTWARZANIE SP. Z O.O.,PL,ELEKTROCIEPŁOWNIA BIAŁYSTOK
+coal,90,Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A.,PL,ELEKTROCIEPŁOWNIA CZECHNICA
+coal,524,Energetyka sp. z o.o.,PL,Elektrociepłownia E-1 Lubin
+coal,526,Energetyka sp. z o.o.,PL,Elektrociepłownia E-2 Polkowice
+coal,680,Energetyka sp. z o.o.,PL,Elektrociepłownia E-3 Głogów
+coal,33,ENERGA Kogeneracja,PL,ELEKTROCIEPŁOWNIA ELBLĄG
+coal,50,PGE Energia Ciepła S.A.,PL,ELEKTROCIEPŁOWNIA GDAŃSKA
+coal,51,PGE Energia Ciepła S.A.,PL,ELEKTROCIEPŁOWNIA GDYŃSKA
+coal,37,ENERGA Kogeneracja,PL,ELEKTROCIEPŁOWNIA KALISZ
+coal,40,Elektrociepłownia Mielec Sp. z o.o.,PL,Elektrociepłownia Mielec Sp. z o.o.
+coal,26,PGNiG TERMIKA SA,PL,ELEKTROCIEPŁOWNIA PRUSZKÓW
+coal,27,PGNiG TERMIKA SA,PL,ELEKTROCIEPŁOWNIA SIEKIERKI
+coal,35,Veolia Wschód Sp. z o.o.,PL,Elektrociepłownia Świdnik
+coal,78,Zakłady Energetyki Cieplnej S.A.,PL,ELEKTROCIEPŁOWNIA WIECZOREK
+coal,91,Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A.,PL,ELEKTROCIEPŁOWNIA WROCŁAW
+coal,87,Veolia Energia Łódź SA,PL,Elektrociepłownia Zakład EC-3 Veolia Energia Łódź
+coal,88,Veolia Energia Łódź SA,PL,Elektrociepłownia Zakład EC-4 Veolia Energia Łódź
+coal,47,Elektrociepłownia Zduńska Wola Sp. z o.o.,PL,ELEKTROCIEPŁOWNIA ZDUŃSKA WOLA
+coal,28,PGNiG TERMIKA SA,PL,ELEKTROCIEPŁOWNIA ŻERAŃ
+gas,828,"Elektrociepłownia ""Zielona Góra"" S.A.",PL,ELEKTROCIEPŁOWNIA ZIELONA GÓRA S.A.
+coal,23,Zespół Elektrowni Pątnów-Adamów-Konin SA,PL,ELEKTROWNIA ADAMÓW
+coal,22,Zespół Elektrowni Pątnów-Adamów-Konin SA,PL,ELEKTROWNIA KONIN
+coal,4,ENEA WYTWARZANIE SP. Z O.O.,PL,ELEKTROWNIA KOZIENICE
+coal,20,ENERGA Elektrownie Ostrołęka S.A.,PL,ELEKTROWNIA OSTROŁĘKA B
+coal,21,Zespół Elektrowni Pątnów-Adamów-Konin SA,PL,ELEKTROWNIA PĄTNÓW
+coal,5,Enea Elektrownia Połaniec S.A.,PL,Instalacja do spalania paliw
+coal,38,PGE Energia Ciepła S.A.,PL,PGE Energia Ciepła S.A. Oddział nr 1 w Krakowie
+coal,6,PGE Energia Ciepła S.A.,PL,PGE Energia Ciepła S.A. Oddział w Rybniku
+gas,39,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. - Elektrociepłownia Lublin-Wrotków
+coal,17,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. - Elektrownia Pomorzany
+gas,41,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. - Oddział Elektrociepłownia Rzeszów
+gas,36,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. -Oddział Elektrociepłownia Gorzów
+,53,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Oddział Elektrociepłownia Zgierz III
+coal,1,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Oddział Elektrownia Bełchatów
+coal,2,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Oddział Elektrownia Opole
+coal,3,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Oddział Elektrownia Turów
+coal,16,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Oddział Zespół Elektrowni Dolna Odra
+coal,86,PGE Górnictwo i Energetyka Konwencjonalna S.A.,PL,PGE GiEK S.A. Zesp.Elektrociepłowni Bydgoszcz-ECII
+coal,72,PGNiG TERMIKA Energetyka Przemysłowa S.A.,PL,PGNiG Termika Energetyka Przemysłowa O Moszczenica
+coal,74,PGNiG TERMIKA Energetyka Przemysłowa S.A.,PL,PGNiG TERMIKA Energetyka Przemysłowa S.A.O Pniówek
+coal,75,PGNiG TERMIKA Energetyka Przemysłowa S.A.,PL,PGNiG TERMIKA Energetyka Przemysłowa S.A.O. Suszec
+coal,11,TAURON WYTWARZANIE S.A.,PL,TAURON Wytw. SA Elektr. Jaworzno III Elektr. II
+coal,15,TAURON WYTWARZANIE S.A.,PL,TAURON Wytw. SA O. Elektrownia Siersza w Trzebini
+coal,14,TAURON WYTWARZANIE S.A.,PL,TAURON Wytwarzanie SA O. Elek. Łagisza w Będzinie
+coal,9,TAURON WYTWARZANIE S.A.,PL,TAURON Wytwarzanie SA O. Elektrownia Jaworzno III
+coal,12,TAURON WYTWARZANIE S.A.,PL,TAURON Wytwarzanie SA O. Elektrownia Łaziska
+coal,8,TAURON WYTWARZANIE S.A.,PL,TAURON Wytwarzanie SA O. Elektrownia Stalowa Wola
+coal,522,Veolia Energia Poznań S.A,PL,Veolia Energia Poznań S.A.-Elektrociepł. Karolin
+coal,67,TAURON Ciepło Sp. z o.o.,PL,Zakład Wytwarzania Bielsko Biała EC2
+coal,10,TAMEH Polska Sp. z o. o.,PL,Zakład Wytwarzania Blachownia
+coal,64,TAURON Ciepło Sp. z o.o.,PL,Zakład Wytwarzania Katowice
+coal,31,TAMEH Polska Sp. z o. o.,PL,Zakład Wytwarzania Nowa
+coal,45,TAURON Ciepło Sp. z o.o.,PL,Zakład Wytwarzania Tychy
+,74,"BAMISO, S.A",PT,"BAMISO, S.A"
+gas,120,"Turbogás - Produtora Energética, S.A",PT,Central de Ciclo Combinado da Tapada do Outeiro
+oil,195,"Empresa de Electricidade da Madeira, S.A",PT,Central Térmica da Vitória
+,215,"Electricidade dos Açores, S.A.",PT,Central Térmica de Santa Bárbara
+,216,"Electricidade dos Açores, S.A.",PT,Central Térmica do Belo Jardim
+oil,194,"Empresa de Electricidade da Madeira, S.A",PT,Central Térmica do Porto Santo
+coal,100,"EDP - Gestão da Produção de Energia, S.A.",PT,Central Termoeléctrica de Sines
+oil,72,Atlantic Islands Electricity,PT,Central Termoeléctrica do Caniçal
+coal,23,"Tejo Energia, S.A",PT,Central Termoeléctrica do Pego
+oil,218,"Electricidade dos Açores, S.A.",PT,Central Termoeléctrica do Pico
+oil,217,"Electricidade dos Açores, S.A.",PT,Central Termoelétrica do Caldeirão
+,104,"Companhia Térmica Tagol, Unipessoal, Lda",PT,"Companhia Térmica Tagol, Unipessoal, Lda"
+gas,253,"Enerlousado, Recursos Energéticos Lda",PT,"Enerlousado, Recursos Energéticos"
+gas,192,"Europa&c Energia Viana, S.A.",PT,"Europa&c Energia Viana, S.A."
+,137,"SCC-Sociedade Central de Cervejas e Bebidas, S.A.",PT,"SCC-Sociedade Central de Cervejas e Bebidas, S.A."
+gas,81,"Evertis Energia, S.A.",PT,"Selenis Energia, S.A."
+,47,"Unicer, Energia e Ambiente, S.A.",PT,"Unicer-Central Prod Comb.Calor Elect,Leça do Balio"
+gas,75,Veolia Energie Iasi SA,RO,C.E.T. Iasi I
+coal,76,Veolia Energie Iasi SA,RO,CET Iasi II
+coal,84,COMPANIA LOCALA DE TERMOFICARE COLTERM SA,RO,CT TIMISOARA Sud
+oil,104,ELECTROCENTRALE BUCURESTI S.A,RO,CTE Bucuresti Vest
+oil,106,ELECTROCENTRALE BUCURESTI S.A,RO,CTE Grozavesti
+gas,103,ELECTROCENTRALE BUCURESTI S.A,RO,CTE Progresu
+coal,110,COMPLEXUL ENERGETIC HUNEDOARA,RO,Electrocentrale Deva
+coal,3,S Complexul Energetic Oltenia SA,RO,S Complexul Energetic Oltenia S.A. -SE Craiova II
+coal,86,S Complexul Energetic Oltenia SA,RO,S Complexul Energetic Oltenia SA -  SE Isalnita
+coal,88,S Complexul Energetic Oltenia SA,RO,S Complexul Energetic Oltenia SA-SE Turceni
+coal,209,SC TERMOELECTRICA SA,RO,S.C. P.E.E.T. ELECTROCENTRALA PAROSENI S.A.
+gas,108,ELECTROCENTRALE BUCURESTI S.A,RO,S.N.G.N. Romgaz S.A.  - SPEE Iernut - CTE Iernut
+coal,87,S Complexul Energetic Oltenia SA,RO,SC C.E. OLTENIA SA - SUC. ELECTROCENTRALE ROVINARI
+coal,73,SC CET Govora SA,RO,SC CET Govora SA
+coal,41,SC CET ARAD SA,RO,SC CET Hidrocarburi  SA Arad
+oil,107,ELECTROCENTRALE BUCURESTI S.A,RO,SC Electr.centrt.Bucuresti-CET Bucuresti Sud
+oil,111,Societatea ELECTROCENTRALE GALATI SA,RO,SC ELECTROCENTRALE GALATI SA
+gas,120,SC ENET SA Focsani,RO,SC ENET SA Focsani
+oil,90,VEOLIA ENERGIE PRAHOVA SRL,RO,VEOLIA ENERGIE PRAHOVA SRL Punct de lucru Brazi
+biomass,250,E.ON Värme Sverige AB,SE,Åbyverket
+biomass,63,C4 Energi AB,SE,Allöverket
+biomass,188,Mark Kraftvärme AB,SE,Assbergsverket
+biomass,613,Kraftringen Energi AB,SE,Återbruket
+nuclear,239,Sydkraft Thermal Power AB,SE,Barsebäcksverket
+biomass,304,Vattenfall AB,SE,"Bergsättersverken, Motala"
+biomass,310,Vattenfall AB,SE,Boländerna
+biomass,6,Stockholm Exergi AB,SE,Brista
+nuclear,81,Forsmarks kraftgrupp AB,SE,Forsmarks Kärnkraftstation
+nuclear,82,Forsmarks kraftgrupp AB,SE,Gunnarsbo Kraftverk
+gas,235,Svenska Kraftnät Gasturbiner AB,SE,Hallstavik Kraftverk
+biomass,240,Sydkraft Thermal Power AB,SE,Halmstadsverket
+biomass,266,E.ON Värme Sverige AB,SE,Händelöverket
+biomass,123,Härnösand Energi & Miljö AB,SE,Härnösands KVV
+biomass,19,Stockholm Exergi AB,SE,Hässelby
+gas,256,E.ON Värme Sverige AB,SE,Heleneholmsverket och Heleneholms FVC
+gas,106,Göteborg Energi AB,SE,Högsbo KVV
+,68,Halmstads Energi & Miljö AB,SE,HVC Turbingatan
+biomass,323,Vattenfall AB,SE,Idbäcksverket
+biomass,274,Söderenergi AB,SE,Igelstaverket
+biomass,139,Karlskoga Kraftvärmeverk AB,SE,Karlskoga KVV
+biomass,148,Katrinefors Kraftvärme AB,SE,Katrinefors KVV
+biomass,232,Sundsvall Energi AB,SE,Korstaverket
+biomass,215,Sandviken Energi AB,SE,KVV Björksätra
+biomass,22,Värmevärden AB,SE,KVV Djuped
+biomass,370,Jönköping Energi AB,SE,KVV Munksjö
+biomass,83,Värmevärden i Nynäshamn AB,SE,KVV Nynäshamn
+gas,339,Öresundskraft Kraft & Värme AB,SE,KVV-Åkerslund
+oil,237,Svenska Kraftnät Gasturbiner AB,SE,Lahall kraftverk
+biomass,280,Tekniska Verken i Linköping AB,SE,Linköping KVV
+biomass,125,Jämtkraft AB,SE,Lugnviksverket KVV
+gas,178,Lulekraft AB,SE,Luleå KVV
+biomass,107,Skellefteå Kraft AB,SE,Malå KVV
+biomass,202,Nässjö Affärsverk AB,SE,Nässjö KVV
+biomass,91,Nybro Värmecentral AB,SE,Nybro Energicentral
+gas,242,Sydkraft Thermal Power AB,SE,Öresundsverket
+nuclear,203,OKG AB,SE,Oskarshamnsverket
+,223,Locum AB,SE,Reservkraft Huddinge sjukhus. Hus D
+,325,Locum AB,SE,Reservkraft Karolinska Sjukhusområdet
+nuclear,208,RINGHALS AB,SE,Ringhals
+biomass,196,Mölndal Energi AB,SE,Riskullaverket
+gas,112,Göteborg Energi AB,SE,Rya Värmecentral
+biomass,59,Borås Energi och Miljö AB,SE,Ryaverket
+biomass,334,Växjö Energi AB,SE,Sandviksverket
+gas,300,Vattenfall AB,SE,Slite Kraftverk
+oil,238,Svenska Kraftnät Gasturbiner AB,SE,Stallbacka Kraftverk
+biomass,214,Falu Energi & Vatten AB,SE,Västermalmsverket
+oil,303,Vattenfall AB,SE,Visby Kraftvärmestation
+,1,"ENERGETIKA LJUBLJANA, D.O.O.",SI,"Energetika Ljubljana, d.o.o."
+gas,2,JAVNO PODJETJE ENERGETIKA MARIBOR D.O.O.,SI,JAVNO PODJETJE ENERGETIKA MARIBOR D.O.O.
+gas,3,TEB D.O.O. BRESTANICA,SI,TEB d.o.o. Brestanica
+gas,4,TERMOELEKTRARNA ŠOŠTANJ D.O.O.,SI,Termoelektrarna Šoštanj d.o.o.
+coal,5,"ENERGETIKA LJUBLJANA, d.o.o.",SI,"TE-TOL, D.O.O."
+coal,61,"CHEMES, a.s. Humenné",SK,"CHEMES, a.s. Humenné, prevádzka Tepláreň"
+coal,167,"Žilinská teplárenská, a.s.",SK,Kotolňa na zemný plyn naftový a hnedé uhlie
+,105,"Mondi SCP, a.s.",SK,"Paroplynové zariadenie PPZ1, PPZ2 a Kotol K3"
+gas,62,"CHEMOSVIT ENERGOCHEM, a.s.",SK,Podniková tepláreň
+gas,194,"SLOVINTEGRA ENERGY, a.s.",SK,"SLOVINTEGRA ENERGY, a.s. - paroplynový cyklus"
+coal,144,"Tepláreň Košice, a. s. v skratke TEKO, a. s.",SK,"TEKO, a. s."
+coal,75,"Martinská teplárenská, a.s.",SK,Tepláreň
+gas,9,"Bratislavská teplárenská, a.s.",SK,Tepláreň II (Tepláreň Východ)
+gas,10,"Bratislavská teplárenská, a.s.",SK,Tepláreň západ
+coal,110,"Slovenské elektrárne, a.s.",SK,Závod Elektrárne Nováky
+coal,109,"Slovenské elektrárne, a.s.",SK,Závod Elektrárne Vojany
+coal,162,"Zvolenská teplárenská, a.s.",SK,"Zvolenská teplárenská, a.s."
