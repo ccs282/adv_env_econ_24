@@ -280,7 +280,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 ##### Task: Add propensity scores to the data
 
-- Use the package `MatchIt` to calculate propensity scores for six subsamples (data split by fuel type and number of installations) following the instructions below. Familiarise yourself with the functions on the [package website](https://kosukeimai.github.io/MatchIt/).
+- Use the package `MatchIt` to calculate propensity scores for six subsamples of `data_inst_psm` (data split by fuel type and number of installations) following the instructions below. Familiarise yourself with the functions on the [package website](https://kosukeimai.github.io/MatchIt/).
 - Calculate propensity scores six times, once for each subsample. The subsamples are defined by the variables `c("coal", "coal_one_inst_firm", "coal_multi_inst", "gas", "gas_one_inst_firm", "gas_multi_inst")`. The coal subsample should contain all observations where `coal` equals `1` and so on.
 - The calculation of the propensity scores should be nearest neighbour matching with replacement, discarding units from both treated and control group if there is no common support. The matching should be based on a logit model that regresses `treated` on `avg_ln_emissions_2009_2012`.
 - For each subsample, four variables should be added to the data set `data_inst_psm`:
