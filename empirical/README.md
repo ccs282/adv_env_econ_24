@@ -104,10 +104,9 @@ Load the packages and set the reference point for relative paths by running the 
 [1] "C:/.../adv_env_econ_24"
 ```
 
-Import the six data sets stored under [./data/zaklan_replication](./data/zaklan_replication/). Name them after the file names without the `.csv` extension, e.g., `electricity_market_data`.
-
 ###### Task: Loading and cleaning the EUTL data
 
+- Import the six data sets stored under [./data/zaklan_replication](./data/zaklan_replication/). Name them after the file names without the `.csv` extension, e.g., `electricity_market_data`.
 - Create a data set called `data_inst` based on the data set `eutl_oha_data`.
 - Keep only the years (column `year`) between and including 2009 and 2017.
 - Keep the following columns (drop the rest):
