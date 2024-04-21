@@ -54,9 +54,7 @@ For the data handling, we will mostly use the excellent packages from the `tidyv
 
 The replication exercise is based on the [repository by Aleksandar Zaklan](https://doi.org/10.3886/E152861V1), which is written in `Stata`. Therefore, if you are familiar with `Stata` and new to `R`, you might check out the file `Create_estimation_datasets.do` in the repository. Please note though that you are not encouraged to translate code from `Stata` to `R` line-by-line. Rather, think about what the code achieves and how to best implement it. For most tasks, it is possible to find a more concise and elegant solution in `R`.
 
-#### Step-by-step instructions
-
-##### Setting up the working environment
+#### Setting up the working environment
 
 Before starting the tasks ahead, you should have already saved the repository locally on your computer, installed `R`, `Visual Studio Code` (VSC), and the `R` extension in VSC following the instructions from the [README in the parent folder](../README.md).
 
@@ -82,7 +80,7 @@ install.packages(c(
 
 Ready? Let's start coding.
 
-##### Preparing the data
+#### Preparing the data
 
 Please note that the exercise is rather extensive. Do not feel pressured to complete all tasks. Rather, ask yourself what you can take from this exercise and improve your skills. If you are new to `R` and coding in general, even completing some of the first steps will be a good achievement. If you are more advanced, the exercise should not be too challenging, but it will still be a good opportunity to refresh your skills.
 
@@ -93,7 +91,7 @@ If you are fully comfortable with cleaning the data, which is the main focus of 
 <details>
 <summary> Click here to open the coding instructions. </summary>
 
-###### Task: Loading the packages
+##### Task: Loading the packages
 
 You should now have opened the file you created in the [previous step](#setting-up-the-working-environment) and have inserted the code that was provided in [./src/zaklan_replication.r](./src/zaklan_replication.r).
 
@@ -104,7 +102,7 @@ Load the packages and set the reference point for relative paths by running the 
 [1] "C:/.../adv_env_econ_24"
 ```
 
-###### Task: Loading and cleaning the EUTL data
+##### Task: Loading and cleaning the EUTL data
 
 - Import the six data sets stored under [./data/zaklan_replication](./data/zaklan_replication/). Name them after the file names without the `.csv` extension, e.g., `electricity_market_data`.
 - Create a data set called `data_inst` based on the data set `eutl_oha_data`.
@@ -132,7 +130,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Add NACE codes
+##### Task: Add NACE codes
 
 - Add the data set `nace` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the following variables as identifiers: `c("registry_code", "installationidentifier")`.
 - Keep only observations where `nacerev2` is one of:
@@ -161,7 +159,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Further cleaning and create treatment variables
+##### Task: Further cleaning and create treatment variables
 
 - Replace `NA` values in the columns `c(verified_emiss, allocated)` with `0`.
 - For `verified_emiss`, set values smaller than `10` to `0`.
@@ -195,7 +193,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Fuel type information
+##### Task: Fuel type information
 
 - Add the the column `c("fuel_type")` of the data set `fuel_type_info` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the following variables as identifiers: `c("installationidentifier", "registry_code")`.
 - Keep only observations where `fuel_type` is one of: `c("coal", "gas")`.
@@ -208,7 +206,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Add identifiers for multi/single installation firms
+##### Task: Add identifiers for multi/single installation firms
 
 - Create a new variable `inst_count` that counts the number of unique `installationidentifier` for each `firm_num`.
 - Create a variable `one_inst_firm` that equals `1` if `inst_count` is equal to `1` and `0` otherwise. Drop `inst_count`.
@@ -223,7 +221,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Add data on electricity, GDP etc
+##### Task: Add data on electricity, GDP etc
 
 - Add the variables `c("final_electricity_consumption", "RE", "GDP", "exports", "imports")` from the data set `electricity_market_data` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the variables `c("registry_code", "year")` as identifiers.
 - Create the variable `net_exports` as the difference between `exports` and `imports`, divided by `1000`; drop `exports` and `imports`.
@@ -237,7 +235,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Add EUTL transactions data
+##### Task: Add EUTL transactions data
 
 - Add the variables `c("net_ac_ext_inst", "net_ac_tot_inst", "annual_change_bank_inst", "bank_inst")` from the data set `trading_banking_data` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the variables `c("registry_code", "installationidentifier", "year")` as identifiers.
 - Create the variables `annual_change_bank_inst_1000` and `net_ac_ext_inst_1000` as the respective variables divided by `1000`.
@@ -249,7 +247,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Prepare the data for propensity score matching
+##### Task: Prepare the data for propensity score matching
 
 - Create a data set called `data_inst_psm` based on the data set `data_inst`.
 - Keep the following variables and drop the rest:
@@ -280,7 +278,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-###### Task: Add propensity scores to the data
+##### Task: Add propensity scores to the data
 
 - Use the package `MatchIt` to calculate propensity scores for six subsamples (data split by fuel type and number of installations) following the instructions below. Familiarise yourself with the functions on the [package website](https://kosukeimai.github.io/MatchIt/).
 - Calculate propensity scores six times, once for each subsample. The subsamples are defined by the variables `c("coal", "coal_one_inst_firm", "coal_multi_inst", "gas", "gas_one_inst_firm", "gas_multi_inst")`. The coal subsample should contain all observations where `coal` equals `1` and so on.
