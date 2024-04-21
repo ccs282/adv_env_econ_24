@@ -88,7 +88,7 @@ Please note that the exercise is rather extensive. Do not feel pressured to comp
 
 After each task, I provide the data set in the form how it should look like after the task. If you are stuck with a specific task, you can load the data from the checkpoint and continue with the next task.
 
-If you are fully comfortable with cleaning the data, which is the main focus of most of the tasks, you can also jump ahead to [the last task](#task-add-propensity-scores-to-the-data) that involves propensity score matching. Simply load the data from the checkpoint before.
+If you are fully comfortable with cleaning the data, which is the main focus of most of the tasks, you can also jump ahead to [the last task](#task-add-propensity-scores-to-the-data) (open coding instructions below for the link to work) that involves propensity score matching. Simply load the data from the checkpoint before.
 
 <details>
 <summary> Click here to open the coding instructions. </summary>
