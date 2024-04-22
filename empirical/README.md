@@ -62,7 +62,7 @@ Let's make sure to open the repository correctly. This step is crucial to make s
 
 Having set the repository as the current working environment in VSC, now open the file located under [./src/zaklan_replication.r](./src/zaklan_replication.r) and copy its contents. Create an empty R file: In VSC, press `Ctrl+Shift+P` (Windows/Linux) or `⇧⌘P` (Mac) and type in `create new file`, press `Enter` and choose `R Document (r)` from the list. Then, save it with a name of your choice in the folder [./src/](./src/). Paste in the contents of the file [./src/zaklan_replication.r](./src/zaklan_replication.r). You will work in the file you just created for the following tasks, while I will later upload the solutions to [./src/zaklan_replication.r](./src/zaklan_replication.r).
 
-Start a fresh R process by typing `Ctrl+Shift+P` and type `create R terminal`.
+Start a fresh R process by typing `Ctrl+Shift+P` (or `⇧⌘P`) and type `create R terminal`.
 
 Make sure you have installed the necessary packages by running the following code.
 
