@@ -58,7 +58,7 @@ The replication exercise is based on the [repository by Aleksandar Zaklan](https
 
 Before starting the tasks ahead, you should have already saved the repository locally on your computer, installed `R`, `Visual Studio Code` (VSC), and the `R` extension in VSC following the instructions from the [README in the parent folder](../README.md).
 
-Let's make sure to open the repository correctly. This step is crucial to make sure that the relative paths used in the coding scripts work. There are two easy ways of doing so. First, if you are using Github Desktop, you can choose the repository on the top left and then click `Repository -> Open in Visual Studio Code` on the top bar. The second approach is to simply open VSC, press `Ctrl+K Ctrl+O` (Windows/Linux) or `⌘K ⌘O` (Mac) to open a folder and choose the repository locally saved on your computer.
+Let's make sure to open the repository correctly. This step is crucial to make sure that the relative paths used in the coding scripts work. There are two easy ways of doing so. First, if you are using Github Desktop, you can choose the repository on the top left and then click `Repository -> Open in Visual Studio Code` on the top bar. The second approach is to simply open VSC, press `Ctrl+K Ctrl+O` (Windows/Linux) or `⌘K ⌘O` (Mac) to open a folder, and choose the repository locally saved on your computer.
 
 Having set the repository as the current working environment in VSC, now open the file located under [./src/zaklan_replication.r](./src/zaklan_replication.r) and copy its contents. Create an empty R file: In VSC, press `Ctrl+Shift+P` (Windows/Linux) or `⇧⌘P` (Mac) and type in `create new file`, press `Enter` and choose `R Document (r)` from the list. Then, save it with a name of your choice in the folder [./src/](./src/). Paste in the contents of the file [./src/zaklan_replication.r](./src/zaklan_replication.r). You will work in the file you just created for the following tasks, while I will later upload the solutions to [./src/zaklan_replication.r](./src/zaklan_replication.r).
 
@@ -84,9 +84,9 @@ Ready? Let's start coding.
 
 Please note that the exercise is rather extensive. Do not feel pressured to complete all tasks. Rather, ask yourself what you can take from this exercise and improve your skills. If you are new to `R` and coding in general, even completing some of the first steps will be a good achievement. If you are more advanced, the exercise should not be too challenging, but it will still be a good opportunity to refresh your skills.
 
-After each task, I provide the data set in the form how it should look like after the task. If you are stuck with a specific task, you can load the data from the checkpoint and continue with the next task.
+After each task, I provide the data set in the form of how it should look after the task. If you are stuck with a specific task, you can load the data from the checkpoint and continue with the next task.
 
-If you are fully comfortable with cleaning the data, which is the main focus of most of the tasks, you can also jump ahead to [the last task](#task-add-propensity-scores-to-the-data) (open coding instructions below for the link to work) that involves propensity score matching. Simply load the data from the checkpoint before. In general, should you want to skip a task, you can load the data from the checkpoint and continue with the next task.
+If you are fully comfortable with cleaning the data, which is the main focus of most of the tasks, you can also jump ahead to [the last task](#task-add-propensity-scores-to-the-data) (open coding instructions below for the link to work) which involves propensity score matching. Simply load the data from the checkpoint before. In general, should you want to skip a task, you can load the data from the checkpoint and continue with the next task.
 
 <details>
 <summary> Click here to open the coding instructions. </summary>
@@ -195,7 +195,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 ##### Task: Fuel type information
 
-- Add the the column `c("fuel_type")` of the data set `fuel_type_info` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the following variables as identifiers: `c("installationidentifier", "registry_code")`.
+- Add the column `c("fuel_type")` of the data set `fuel_type_info` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the following variables as identifiers: `c("installationidentifier", "registry_code")`.
 - Keep only observations where `fuel_type` is one of: `c("coal", "gas")`.
 - Create two new variables `coal` and `gas` that should equal `1` if `fuel_type` is equal to the respective fuel type and `0` otherwise.
 
@@ -235,7 +235,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 </details>
 
-##### Task: Add EUTL transactions data
+##### Task: Add EUTL transaction data
 
 - Add the variables `c("net_ac_ext_inst", "net_ac_tot_inst", "annual_change_bank_inst", "bank_inst")` from the data set `trading_banking_data` to `data_inst`, preserving all observations (rows) in `data_inst`. Use the variables `c("registry_code", "installationidentifier", "year")` as identifiers.
 - Create the variables `annual_change_bank_inst_1000` and `net_ac_ext_inst_1000` as the respective variables divided by `1000`.
@@ -282,7 +282,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 - Use the package `MatchIt` to calculate propensity scores for six subsamples of `data_inst_psm` (data split by fuel type and number of installations) following the instructions below. Familiarise yourself with the functions on the [package website](https://kosukeimai.github.io/MatchIt/).
 - Calculate propensity scores six times, once for each subsample. The subsamples are defined by the variables `c("coal", "coal_one_inst_firm", "coal_multi_inst", "gas", "gas_one_inst_firm", "gas_multi_inst")`. The coal subsample should contain all observations where `coal` equals `1` and so on.
-- The calculation of the propensity scores should be nearest neighbour matching with replacement, discarding units from both treated and control group if there is no common support. The matching should be based on a logit model that regresses `treated` on `avg_ln_emissions_2009_2012`.
+- The calculation of the propensity scores should be nearest neighbour matching with replacement, discarding units from both the treated and control group if there is no common support. The matching should be based on a logit model that regresses `treated` on `avg_ln_emissions_2009_2012`.
 - For each subsample, four variables should be added to the data set `data_inst_psm`:
   - `pscore_r_[subsample]`: For both treated and control units, this should contain the propensity score.
   - `matched_control_[subsample]`: For treated units, this column should indicate the `inst_num` of the matched control unit. `NA` for control units.
@@ -302,7 +302,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 ## Useful resources for working with R
 
-To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#exercise-2-data-preparation). The table below that lists functions that you might want to use in your code.
+To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#exercise-2-data-preparation). The table below lists functions that you might want to use in your code.
 
 <details>
 <summary> Click here to open the table. </summary>
@@ -335,4 +335,4 @@ To install `R` and integrate it into `Visual Studio Code`, check out the [README
 
 ## Questions and contact
 
-Feel free to contact [Jonas Grunau](mailto:jonas.sebastian.grunau@uni-hamburg.de) if you have clarification questions or are stuck with your coding. However, I also encourage you to spend some time trying to find a solution to any coding problems yourself as this is a core competency when it comes to coding. A bit of frustration is part of the coding experience, but hopefully this will be compensated by the feeling of accomplishment when you get it running. If you are new to `R` or programming in general, you will likely have many questions initially, but I assure you that the learning curve is very steep and you will improve quickly.
+Feel free to contact [Jonas Grunau](mailto:jonas.sebastian.grunau@uni-hamburg.de) if you have clarification questions or are stuck with your coding. However, I also encourage you to spend some time trying to find a solution to any coding problems yourself as this is a core competency when it comes to coding. A bit of frustration is part of the coding experience, but hopefully, this will be compensated by the feeling of accomplishment when you get it running. If you are new to `R` or programming in general, you will likely have many questions initially, but I assure you that the learning curve is very steep and you will improve quickly.
