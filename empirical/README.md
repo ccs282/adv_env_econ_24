@@ -56,7 +56,7 @@ The replication exercise is based on the [repository by Aleksandar Zaklan](https
 
 #### Setting up the working environment
 
-Before starting the tasks ahead, you should have already saved the repository locally on your computer, installed `R`, `Visual Studio Code` (VSC), and the `R` extension in VSC following the instructions from the [README in the parent folder](../README.md).
+Before starting the tasks ahead, you should have already saved the repository locally on your computer, installed `R`, `Visual Studio Code` (VSC), and the `R` extension in VSC following the instructions from the [README in the parent folder](../README.md#software-requirements).
 
 Let's make sure to open the repository correctly. This step is crucial to make sure that the relative paths used in the coding scripts work. There are two easy ways of doing so. First, if you are using Github Desktop, you can choose the repository on the top left and then click `Repository -> Open in Visual Studio Code` on the top bar. The second approach is to simply open VSC, press `Ctrl+K Ctrl+O` (Windows/Linux) or `⌘K ⌘O` (Mac) to open a folder, and choose the repository locally saved on your computer.
 
@@ -302,7 +302,7 @@ The data set after this task should look like this: [./data/zaklan_replication/c
 
 ## Useful resources for working with R
 
-To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#exercise-2-data-preparation). The table below lists functions that you might want to use in your code.
+To install `R` and integrate it into `Visual Studio Code`, check out the [README file](../README.md#software-requirements) of the parent folder. The table below lists resources that you will likely find useful when working with R, including for the [exercise above](#exercise-2-data-preparation). The table below lists functions that you might want to use in your code.
 
 <details>
 <summary> Click here to open the table. </summary>
