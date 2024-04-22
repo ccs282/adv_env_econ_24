@@ -76,7 +76,7 @@ The materials required for the empirical part of this course are located under [
 
 ## Empirical Approaches
 
-The materials required for the empirical part of this course are located under [./empirical/](./empirical/). You will find instructions in the README file of this subfolder.
+The materials required for the empirical part of this course are located under [./empirical/](./empirical/). You will find instructions in the [README file](./empirical/README.md) of this subfolder.
 
 ---
 
