@@ -177,7 +177,6 @@ Identifying climate change impacts on economic or health outcomes is a particula
 
 The replication package is available [here](https://doi.org/10.3886/E114567V1). It is written mostly in `Stata`, but there are final data sets available. However, these contain *lots* of variables (~800), so you will need some time to get an overview. Note though that the number of variables is mostly due to the *wide* format of the data, so pivoting the data set could help depending on your plans. The documentation of the repository is suboptimal, but scrutinising the `.do` files and reading the paper should help you understand the data and the analysis.
 
-<!-- Overall, the repository is a lot less complex than the one for the [second option](#option-2), but it lacks detailed descriptions and structure. -->
 
 <!-- ##### Option 2
 
