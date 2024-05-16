@@ -4,7 +4,7 @@
 
 Welcome to the graded assignment. It is now time to put what you have learned in this course into practice.
 
-Please submit an **ordered list of preferences** of five topics for the assignment **until Tuesday, 21 May, 2pm** via email to all three of us (Moritz Drupp, Jonas Grunau, Felix Schaumann) with the header "AEETopics {Your Surname}". The email text should be something like this: "{Surname}, M1, M2, M3, E1, E3". Soon after, you will get assigned **one** of the five topics.
+Please submit an **ordered list of preferences** of five topics for the assignment **until Tuesday, 21 May, 2pm** via email to all three of us ([Moritz Drupp](mailto:moritz.drupp@uni-hamburg.de), [Jonas Grunau](mailto:jonas.sebastian.grunau@uni-hamburg.de), [Felix Schaumann](felix.schaumann@uni-hamburg.de)) with the header "AEETopics {Your Surname}". The email text should be something like this: "{Surname}, M1, M2, M3, E1, E3". Soon after, you will get assigned **one** of the five topics.
 
 See [below](#instructions-for-the-modelling-track) for the instructions on the modelling and empirical track, respectively.
 
