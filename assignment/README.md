@@ -1,5 +1,9 @@
 # Advanced Environmental Economics (22-30.104): Graded Assignment
 
+---
+
+## Instructions
+
 Welcome to the graded assignment. It is now time to put what you have learned in this course into practice.
 
 Please submit an **ordered list of preferences** of five topics for the assignment **until Friday, 17 May, 6pm** via email to all three of us (Moritz Drupp, Jonas Grunau, Felix Schaumann) with the header "AEETopics {Your Surname}". The email text should be something like this: "{Surname}, M1, M2, M3, E1, E3". Soon after, you will get assigned **one** of the five topics.
@@ -21,10 +25,9 @@ The **final paper** should address the following points:
 5. Provide at least one figure of your results.
 6. Critically discuss both the existing extension and your own changes, addressing uncertainties, model limitations, and what be learned from your results.
 
-Please submit both your **paper** as well as the **repository** with your code. Make sure your code is fully understandable and reproducible. 
+Please submit both your **paper** as well as the **repository** with your code. Make sure your code is fully understandable and reproducible.
 
 You can share the repository either via Email using software such as [WeTransfer](https://wetransfer.com/) or invite me as a collaborator on GitHub (see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) how to do it; my username is [ccs282](https://github.com/felixschaumann)).
-
 
 ### Instructions for the empirical track
 
@@ -70,7 +73,7 @@ You are strongly encouraged to use `R` in your analysis. However, as the origina
 
 ## Track I: Integrated Assessment Modelling
 
-Each of the topics is based on a specific IAM extension. 
+Each of the topics is based on a specific IAM extension.
 
 ### M1: Natural capital in IAMs
 
@@ -130,7 +133,7 @@ The AD-DICE model is not available online. The way to go is hence to include the
 
 #### Implementation
 
-The META model is available on Github [here](https://github.com/openmodels/META-2021). It is, in contrast to the other topics, not an extenstion of the DICE model, but a model that is mainly used for estimating SCC values based on different scenarios. It is very well-documented in the [appendix of the PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2103081118#supplementary-materials). Challenges when working with META can arise from the randomness that is used to model tipping points. This can make it harder to compare different model runs. With some tricks, the model can be made deterministic; I am happy to help with questions. 
+The META model is available on Github [here](https://github.com/openmodels/META-2021). It is, in contrast to the other topics, not an extenstion of the DICE model, but a model that is mainly used for estimating SCC values based on different scenarios. It is very well-documented in the [appendix of the PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2103081118#supplementary-materials). Challenges when working with META can arise from the randomness that is used to model tipping points. This can make it harder to compare different model runs. With some tricks, the model can be made deterministic; I am happy to help with questions.
 
 ---
 
