@@ -4,11 +4,11 @@
 
 Welcome to the graded assignment. It is now time to put what you have learned in this course into practice.
 
-Please submit an **ordered list of preferences** of five topics for the assignment **until Friday, 17 May, 6pm** via email to all three of us (Moritz Drupp, Jonas Grunau, Felix Schaumann) with the header "AEETopics {Your Surname}". The email text should be something like this: "{Surname}, M1, M2, M3, E1, E3". Soon after, you will get assigned **one** of the five topics.
+Please submit an **ordered list of preferences** of five topics for the assignment **until Tuesday, 21 May, 2pm** via email to all three of us (Moritz Drupp, Jonas Grunau, Felix Schaumann) with the header "AEETopics {Your Surname}". The email text should be something like this: "{Surname}, M1, M2, M3, E1, E3". Soon after, you will get assigned **one** of the five topics.
 
 See [below](#instructions-for-the-modelling-track) for the instructions on the modelling and empirical track, respectively.
 
-The **world limit** for your term paper is 5000 words.
+The **deadline** is Thursday, 21 June 2024, 11:59pm. The **world limit** for your term paper is 5000 words.
 
 ### Instructions for the modelling track
 
@@ -39,11 +39,11 @@ In your paper, you should:
 
 - *Briefly* introduce the paper you are extending.
   - i.e., briefly state the research question, its relevance, main empirical approach, findings and conclusions drawn
-- Describe the empirical challenge of identifying the causal relationship the authors face and how they address it with their methodology.
+- State the empirical challenge of identifying the causal relationship the authors face and how they address it with their methodology.
   - Might be useful to think about the 'perfect experiment' first and then state how the authors' approach tries to mimic this
   - State the underlying assumptions of the approach.
-  - List the robustness tests conducted by the authors and how this relates to the identifying assumptions.
-  - *Note*: Everything until here is not the main contribution of your paper. In terms of words, it could be around 30-40% of your paper. Focus on your extension.
+  - List the robustness tests conducted by the authors and how this relates to the identifying assumptions.  
+&rarr; *Note*: Everything until here is not the main contribution of your paper. In terms of words, it could be around 30-40% of your paper. Focus on your extension.
 - Motivate and describe your extension.
   - What exactly are you doing?
   - How does it complement the analysis of the paper?
@@ -64,8 +64,6 @@ In the repository, you do not need to include all code and data that is used in 
 You can share the repository either via Email using software such as [WeTransfer](https://wetransfer.com/) or invite me as a collaborator on GitHub (see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) how to do it; my username is [ccs282](https://github.com/ccs282)).
 
 You are strongly encouraged to use `R` in your analysis. However, as the original repositories (see [here](#track-ii-causal-identification)) also contain analyses in `Stata`, it is also acceptable to work in `Stata` if that makes it more feasible for you. Again, please ensure easy reproducibility, which involves avoiding hard coding of absolute paths.
-
-#### Miscellaneous
 
 ---
 
@@ -176,11 +174,6 @@ Identifying climate change impacts on economic or health outcomes is a particula
 [Burke & Emerick (2016)](https://doi.org/10.1257/pol.20130025)
 
 The replication package is available [here](https://doi.org/10.3886/E114567V1). It is written mostly in `Stata`, but there are final data sets available. However, these contain *lots* of variables (~800), so you will need some time to get an overview. Note though that the number of variables is mostly due to the *wide* format of the data, so pivoting the data set could help depending on your plans. The documentation of the repository is suboptimal, but scrutinising the `.do` files and reading the paper should help you understand the data and the analysis.
-
-
-<!-- ##### Option 2
-
-[Carleton et al. (2022)](https://doi.org/10.1093/qje/qjac020) -->
 
 #### Further resources
 
