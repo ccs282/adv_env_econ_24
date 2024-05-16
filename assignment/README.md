@@ -1,7 +1,5 @@
 # Advanced Environmental Economics (22-30.104): Graded Assignment
 
----
-
 ## Instructions
 
 Welcome to the graded assignment. It is now time to put what you have learned in this course into practice.
@@ -27,7 +25,7 @@ The **final paper** should address the following points:
 
 Please submit both your **paper** as well as the **repository** with your code. Make sure your code is fully understandable and reproducible.
 
-You can share the repository either via Email using software such as [WeTransfer](https://wetransfer.com/) or invite me as a collaborator on GitHub (see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) how to do it; my username is [ccs282](https://github.com/felixschaumann)).
+You can share the repository either via Email using software such as [WeTransfer](https://wetransfer.com/) or invite me as a collaborator on GitHub (see [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) how to do it; my username is [felixschaumann](https://github.com/felixschaumann)).
 
 ### Instructions for the empirical track
 
