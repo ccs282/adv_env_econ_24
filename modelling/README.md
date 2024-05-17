@@ -66,6 +66,16 @@ some_code_to_be_executed = here
 - execute one cell: `Alt+Enter`
 - execute one line and move to the next: `Alt+Shift+Enter`
 
+## 5. Tutorials
+
+There are five tutorials, all of them as Jupyter notebooks, some of them also as `.jl` files:
+
+1. [running_DICE.ipynb](./running_DICE.ipynb) (or [.jl](./running_DICE.jl)) and [running_META.ipynb](./running_META.ipynb)
+2. [optimising_DICE.ipynb](./optimising_DICE.ipynb) (or [.jl](./optimising_DICE.ipynb))
+3. [changing_parameters.ipynb](./changing_parameters.ipynb) (or [.jl](./changing_parameters.jl)) 
+4. [changing_components.ipynb](./changing_components.ipynb)
+5. [plotting_results.ipynb](./plotting_results.ipynb)
+
 ___
 
 ## Section with useful nerdy stuff
