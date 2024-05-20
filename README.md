@@ -10,6 +10,7 @@
       - [VSC Extensions](#vsc-extensions)
   - [Modelling Approaches](#modelling-approaches)
   - [Empirical Approaches](#empirical-approaches)
+  - [Graded Assignment](#graded-assignment)
   - [Contact](#contact)
 
 ---
@@ -77,6 +78,12 @@ The materials required for the empirical part of this course are located under [
 ## Empirical Approaches
 
 The materials required for the empirical part of this course are located under [./empirical/](./empirical/). You will find instructions in the [README file](./empirical/README.md) of this subfolder.
+
+---
+
+## Graded Assignment
+
+All information on the graded assignment can be found in [this file](./assignment/README.md).
 
 ---
 
