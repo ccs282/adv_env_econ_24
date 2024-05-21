@@ -195,3 +195,11 @@ The following papers discuss different approaches and challenges of capturing we
 
 ## Grading criteria
 
+- Focus on the assignment tasks and a topic-related research question
+- Coherent structure; logical development of the argument
+- Clear description of the own extension of the model/empirical analysis; reproducibility of all results, figures, tables, $\ldots$
+- Critical discussion; transparency and reflection on assumptions/limitations
+- Originality of the analysis; independent thought
+- Effective communication and professional style
+- Compliance with word count
+- Appropriate citing and referencing
