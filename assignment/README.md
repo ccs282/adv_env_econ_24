@@ -14,6 +14,8 @@ The **world limit** for your term paper is 5000 words.
 
 Please employ a **citation and referencing style** that uses author-year in-text citations (e.g., "Lastname1 et al., 2024") and a full reference list at the end of the document, such as APA (e.g., see [here](https://files.taylorandfrancis.com/tf_APA.pdf)). Make sure you are consistent.
 
+You will find a list of grading criteria [below the instructions](#grading-criteria).
+
 ### Instructions for the modelling track
 
 For the project work, you should familiarise yourself with an existing extension of a simple IAM, implement it in Mimi and alter the model based on an original research idea. It can be a simple idea, but it has to go beyond what the authors of the reference paper already did.
@@ -188,3 +190,8 @@ The following papers discuss different approaches and challenges of capturing we
 - [Kolstad & Moore (2020)](https://doi.org/10.1093/reep/rez024)
 - [Cui (2020)](https://doi.org/10.1016/j.jeem.2020.102306)
 - [Bento et al. (2023)](https://doi.org/10.1016/j.jeem.2023.102843)
+
+---
+
+## Grading criteria
+
