@@ -8,7 +8,11 @@ Please submit an **ordered list of preferences** of five topics for the assignme
 
 See [below](#instructions-for-the-modelling-track) for the instructions on the modelling and empirical track, respectively.
 
-The **deadline** is Thursday, 21 June 2024, 11:59pm. The **world limit** for your term paper is 5000 words.
+The **deadline** is Thursday, 21 June 2024, 11:59pm.
+
+The **world limit** for your term paper is 5000 words.
+
+Please employ a **citation and referencing style** that uses author-year in-text citations (e.g., "Lastname1 et al., 2024") and a full reference list at the end of the document, such as APA (e.g., see [here](https://files.taylorandfrancis.com/tf_APA.pdf)). Make sure you are consistent.
 
 ### Instructions for the modelling track
 
@@ -31,7 +35,7 @@ You can share the repository either via Email using software such as [WeTransfer
 
 #### Task
 
-If you get assigned one of the topics from the empirical track, you should extend a paper's analysis by an additional robustness test or further analysis. The papers all aim at identifying some causal relationship, and it is your task to enhance the analysis in this respect. For instance, if a paper first identifies the causal impact of temperatures on mortality and, second, makes projections into the future leveraging the estimates from the first step, you are expected to extend the causal estimation part of the *first* part.
+If you get assigned one of the topics from the empirical track, you should extend a paper's analysis by an additional robustness test or further analysis. The papers all aim at identifying some causal relationship, and it is your task to enhance the analysis in this respect. For instance, if a paper first identifies the causal impact of temperatures on mortality and, second, makes projections into the future leveraging the estimates from the first step, you are expected to extend the causal estimation of the *first* part.
 
 #### Content of your paper
 
