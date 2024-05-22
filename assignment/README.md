@@ -14,6 +14,8 @@ The **world limit** for your term paper is 5000 words.
 
 Please employ a **citation and referencing style** that uses author-year in-text citations (e.g., "Lastname1 et al., 2024") and a full reference list at the end of the document, such as APA (e.g., see [here](https://files.taylorandfrancis.com/tf_APA.pdf)). Make sure you are consistent.
 
+While working on your project, you are encouraged to make use of the help that colleagues and technology can provide. Especially for technical and coding questions, it makes sense not to struggle in isolation. However, the novel research idea (development and implementation) as well as the writing of your term paper should be done by yourself without help from colleagues or generative AI. In general, we ask you to submit a help statement as part of your term paper, in which you declare for which tasks you relied upon help by colleagues or generative AI. Having relied on these for technical tasks will not affect the grading.
+
 You will find a list of grading criteria [below the instructions](#grading-criteria).
 
 ### Instructions for the modelling track
