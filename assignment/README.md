@@ -8,7 +8,7 @@ Please submit an **ordered list of preferences** of five topics for the assignme
 
 See [below](#instructions-for-the-modelling-track) for the instructions on the modelling and empirical track, respectively.
 
-The **deadline** is Thursday, 21 June 2024, 11:59pm.
+The **deadline** is Friday, 21 June 2024, 11:59pm.
 
 The **world limit** for your term paper is 5000 words.
 
