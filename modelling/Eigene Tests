@@ -1,0 +1,4 @@
+Pkg. status()
+using Pkg.
+Pkg.add(url="https://github.com/anthofflab/MimiDICE2016R2.jl")
+
